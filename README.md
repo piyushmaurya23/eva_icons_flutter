@@ -2,7 +2,7 @@
 
 Flutter package for [Eva Icons](https://akveo.github.io/eva-icons/). Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
 
-Special thanks to [Eva Icons](https://akveo.github.io/eva-icons/) team. I created this package to make these icons available as Flutter Icons.
+Special thanks to [Eva Icons](https://akveo.github.io/eva-icons/) team for creating these Icons. I created this package to make these icons available as Flutter Icons.
 
 ## Installation
 
