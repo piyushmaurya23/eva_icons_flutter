@@ -1,5 +1,13 @@
-## [0.0.2] - More icons added
+## 1.0.0
 
-## [0.0.1] - TODO: Add release date.
+* Usage details are added in README
+* Updated with Latest Eva Icons 1.0.2
 
-- TODO: Describe initial release.
+## 0.0.2
+
+* All 480 Eva Icons Added
+
+
+## 0.0.1
+
+* Package created with few icons

@@ -22,7 +22,7 @@ import 'package:eva_icons_flutter/eva_icons_flutter.dart';
 class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return IconButton(
-      // Use the EvaIcon class for the IconData
+      // Use the EvaIcons class for the IconData
       icon: Icon(EvaIcons.heart),
       onPressed: () { print("Eva Icon heart Pressed"); }
      );
