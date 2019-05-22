@@ -1,3 +1,7 @@
+## 2.0.0
+
+* AndroidX compatibility
+
 ## 1.0.4
 
 * More example added
