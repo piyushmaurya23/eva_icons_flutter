@@ -6,6 +6,8 @@ This package brings [Eva Icons](https://akveo.github.io/eva-icons/) pack availab
 
 NOTE: AndroidX Compatible
 
+Blog Post: [Beautiful Outlined and Rounded Icons in Flutter with Eva Icons](https://medium.com/@piyushmaurya23/beautiful-outlined-and-rounded-icons-in-flutter-with-eva-icons-e9bf86a7c4e9)
+
 ## Installation
 
 In the dependencies: section of your `pubspec.yaml`, add the following line:
