@@ -409,9 +409,9 @@ class EvaIcons {
   static const IconData diagonalArrowRightUpOutline = const EvaIconData(0xea99);
   static const IconData diagonalArrowLeftUpOutline = const EvaIconData(0xea9a);
   static const IconData diagonalArrowRightDownOutline =
-  const EvaIconData(0xea9b);
+      const EvaIconData(0xea9b);
   static const IconData diagonalArrowLeftDownOutline =
-  const EvaIconData(0xea9c);
+      const EvaIconData(0xea9c);
   static const IconData cubeOutline = const EvaIconData(0xea9d);
   static const IconData cropOutline = const EvaIconData(0xea9e);
   static const IconData creditCardOutline = const EvaIconData(0xea9f);

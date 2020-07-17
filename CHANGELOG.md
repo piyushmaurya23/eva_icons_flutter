@@ -1,3 +1,7 @@
+## 2.0.1
+
+* Library update, better code quality and docs.
+
 ## 2.0.0
 
 * AndroidX compatibility
