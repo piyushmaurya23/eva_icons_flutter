@@ -10,7 +10,7 @@ description: This is an example app for eva_icons_flutter package. This package 
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.12.0-dev.68.0 <3.0.0"
 
 dependencies:
   flutter:
