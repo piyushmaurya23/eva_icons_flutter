@@ -1,3 +1,3 @@
-import 'package:eva_icons_flutter/eva_icons_flutter.dart';
+import 'package:eva_icons_flutter/src/eva_icons_flutter.dart';
 
 void main() {}

@@ -1,6 +1,6 @@
 name: eva_icons_flutter
 description: Flutter package for Eva Icons. Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
-version: 2.0.1
+version: 3.0.1
 author: Piyush Maurya <piyush.maurya@live.in>
 homepage: https://github.com/piyushmaurya23/eva_icons_flutter
 
@@ -14,9 +14,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  recase: ^4.0.0
+  xml: ^5.2.0
 
 flutter:
   fonts:
     - family: EvaIcons
       fonts:
-        - asset: lib/fonts/evaicons.ttf
+        - asset: lib/fonts/Eva-Icons.ttf
