@@ -1,6 +1,7 @@
 ## 3.0.1
 
 - Upgraded to Eva Icons 1.1.3
+- Documentation added
 
 ## 3.0.0
 
