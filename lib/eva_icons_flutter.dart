@@ -3,7 +3,14 @@ library eva_icons_flutter;
 import 'package:flutter/widgets.dart';
 import 'package:eva_icons_flutter/icon_data.dart';
 
+/// Icons based on Eva Icons
+///
+/// https://akveo.github.io/eva-icons/#/
+
 class EvaIcons {
+  /// Wifi icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?searchKey=wifi
   static const IconData wifi = const EvaIconData(0xe900);
   static const IconData volumeUp = const EvaIconData(0xe901);
   static const IconData wifiOff = const EvaIconData(0xe90d);

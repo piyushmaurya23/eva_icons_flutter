@@ -6,6 +6,8 @@
 
 .idea/
 
+doc/
+
 build/
 ios/.generated/
 ios/Flutter/Generated.xcconfig
