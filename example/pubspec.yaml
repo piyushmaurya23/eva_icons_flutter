@@ -1,5 +1,5 @@
 name: eva_icons_demo
-description: This is an example app for eva_icons_flutter package. This package have beautiful  outlined and rounded Icons.
+description: This is an example app for eva_icons_flutter package. This package has beautiful outlined and rounded Icons.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -10,7 +10,9 @@ description: This is an example app for eva_icons_flutter package. This package 
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.12.0-dev.68.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
+
+publish_to: 'none'
 
 dependencies:
   flutter:
@@ -19,7 +21,8 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
-  eva_icons_flutter: ^1.0.0
+  eva_icons_flutter:
+    path: ..
 
 dev_dependencies:
   flutter_test:

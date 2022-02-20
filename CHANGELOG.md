@@ -1,3 +1,7 @@
+## 3.1.0
+
+* Add ios, web & windows platform for launching example app
+
 ## 2.0.1
 
 * Library update, better code quality and docs.
