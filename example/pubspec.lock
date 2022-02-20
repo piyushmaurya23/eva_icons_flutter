@@ -49,14 +49,14 @@ packages:
       name: cupertino_icons
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.2"
+    version: "1.0.4"
   eva_icons_flutter:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "2.1.0"
+    version: "3.1.0"
   fake_async:
     dependency: transitive
     description:

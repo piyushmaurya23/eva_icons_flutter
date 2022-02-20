@@ -1,7 +1,8 @@
-library eva_icons_flutter;
-
 import 'package:flutter/widgets.dart';
 
+/// [IconData] for a Eva Icons
+///
+/// https://akveo.github.io/eva-icons/#/
 class EvaIconData extends IconData {
   const EvaIconData(int codePoint)
       : super(
