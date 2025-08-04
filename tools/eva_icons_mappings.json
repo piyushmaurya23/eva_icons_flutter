@@ -1,0 +1,2855 @@
+{
+  "font_family": "EvaIcons",
+  "font_package": "eva_icons_flutter",
+  "total_icons": 474,
+  "unicode_range": {
+    "start": "0xea01",
+    "end": "0xebea"
+  },
+  "mappings": {
+    "activity": {
+      "glyph_name": "activity",
+      "unicode": "0xea01",
+      "decimal": 59905,
+      "type": "fill"
+    },
+    "activityOutline": {
+      "glyph_name": "activity",
+      "unicode": "0xea02",
+      "decimal": 59906,
+      "type": "fill"
+    },
+    "alertCircle": {
+      "glyph_name": "alert-circle",
+      "unicode": "0xea03",
+      "decimal": 59907,
+      "type": "fill"
+    },
+    "alertCircleOutline": {
+      "glyph_name": "alert-circle-outline",
+      "unicode": "0xea04",
+      "decimal": 59908,
+      "type": "outline"
+    },
+    "alertTriangle": {
+      "glyph_name": "alert-triangle",
+      "unicode": "0xea05",
+      "decimal": 59909,
+      "type": "fill"
+    },
+    "alertTriangleOutline": {
+      "glyph_name": "alert-triangle-outline",
+      "unicode": "0xea06",
+      "decimal": 59910,
+      "type": "outline"
+    },
+    "archive": {
+      "glyph_name": "archive",
+      "unicode": "0xea07",
+      "decimal": 59911,
+      "type": "fill"
+    },
+    "archiveOutline": {
+      "glyph_name": "archive-outline",
+      "unicode": "0xea08",
+      "decimal": 59912,
+      "type": "outline"
+    },
+    "arrowBack": {
+      "glyph_name": "arrow-back",
+      "unicode": "0xea09",
+      "decimal": 59913,
+      "type": "fill"
+    },
+    "arrowBackOutline": {
+      "glyph_name": "arrow-back",
+      "unicode": "0xea0a",
+      "decimal": 59914,
+      "type": "fill"
+    },
+    "arrowCircleDown": {
+      "glyph_name": "arrow-circle-down",
+      "unicode": "0xea0b",
+      "decimal": 59915,
+      "type": "fill"
+    },
+    "arrowCircleDownOutline": {
+      "glyph_name": "arrow-circle-down-outline",
+      "unicode": "0xea0c",
+      "decimal": 59916,
+      "type": "outline"
+    },
+    "arrowCircleLeft": {
+      "glyph_name": "arrow-circle-left",
+      "unicode": "0xea0d",
+      "decimal": 59917,
+      "type": "fill"
+    },
+    "arrowCircleLeftOutline": {
+      "glyph_name": "arrow-circle-left-outline",
+      "unicode": "0xea0e",
+      "decimal": 59918,
+      "type": "outline"
+    },
+    "arrowCircleRight": {
+      "glyph_name": "arrow-circle-right",
+      "unicode": "0xea0f",
+      "decimal": 59919,
+      "type": "fill"
+    },
+    "arrowCircleRightOutline": {
+      "glyph_name": "arrow-circle-right-outline",
+      "unicode": "0xea10",
+      "decimal": 59920,
+      "type": "outline"
+    },
+    "arrowCircleUp": {
+      "glyph_name": "arrow-circle-up",
+      "unicode": "0xea11",
+      "decimal": 59921,
+      "type": "fill"
+    },
+    "arrowCircleUpOutline": {
+      "glyph_name": "arrow-circle-up-outline",
+      "unicode": "0xea12",
+      "decimal": 59922,
+      "type": "outline"
+    },
+    "arrowDown": {
+      "glyph_name": "arrow-down",
+      "unicode": "0xea13",
+      "decimal": 59923,
+      "type": "fill"
+    },
+    "arrowDownOutline": {
+      "glyph_name": "arrow-down-outline",
+      "unicode": "0xea14",
+      "decimal": 59924,
+      "type": "outline"
+    },
+    "arrowDownward": {
+      "glyph_name": "arrow-downward",
+      "unicode": "0xea15",
+      "decimal": 59925,
+      "type": "fill"
+    },
+    "arrowDownwardOutline": {
+      "glyph_name": "arrow-downward",
+      "unicode": "0xea16",
+      "decimal": 59926,
+      "type": "fill"
+    },
+    "arrowForward": {
+      "glyph_name": "arrow-forward",
+      "unicode": "0xea17",
+      "decimal": 59927,
+      "type": "fill"
+    },
+    "arrowForwardOutline": {
+      "glyph_name": "arrow-forward",
+      "unicode": "0xea18",
+      "decimal": 59928,
+      "type": "fill"
+    },
+    "arrowIosBack": {
+      "glyph_name": "arrow-ios-back",
+      "unicode": "0xea19",
+      "decimal": 59929,
+      "type": "fill"
+    },
+    "arrowIosBackOutline": {
+      "glyph_name": "arrow-ios-back",
+      "unicode": "0xea1a",
+      "decimal": 59930,
+      "type": "fill"
+    },
+    "arrowIosDownward": {
+      "glyph_name": "arrow-ios-downward",
+      "unicode": "0xea1b",
+      "decimal": 59931,
+      "type": "fill"
+    },
+    "arrowIosDownwardOutline": {
+      "glyph_name": "arrow-ios-downward",
+      "unicode": "0xea1c",
+      "decimal": 59932,
+      "type": "fill"
+    },
+    "arrowIosForward": {
+      "glyph_name": "arrow-ios-forward",
+      "unicode": "0xea1d",
+      "decimal": 59933,
+      "type": "fill"
+    },
+    "arrowIosForwardOutline": {
+      "glyph_name": "arrow-ios-forward",
+      "unicode": "0xea1e",
+      "decimal": 59934,
+      "type": "fill"
+    },
+    "arrowIosUpward": {
+      "glyph_name": "arrow-ios-upward",
+      "unicode": "0xea1f",
+      "decimal": 59935,
+      "type": "fill"
+    },
+    "arrowIosUpwardOutline": {
+      "glyph_name": "arrow-ios-upward",
+      "unicode": "0xea20",
+      "decimal": 59936,
+      "type": "fill"
+    },
+    "arrowLeft": {
+      "glyph_name": "arrow-left",
+      "unicode": "0xea21",
+      "decimal": 59937,
+      "type": "fill"
+    },
+    "arrowLeftOutline": {
+      "glyph_name": "arrow-left-outline",
+      "unicode": "0xea22",
+      "decimal": 59938,
+      "type": "outline"
+    },
+    "arrowRight": {
+      "glyph_name": "arrow-right",
+      "unicode": "0xea23",
+      "decimal": 59939,
+      "type": "fill"
+    },
+    "arrowRightOutline": {
+      "glyph_name": "arrow-right-outline",
+      "unicode": "0xea24",
+      "decimal": 59940,
+      "type": "outline"
+    },
+    "arrowUp": {
+      "glyph_name": "arrow-up",
+      "unicode": "0xea25",
+      "decimal": 59941,
+      "type": "fill"
+    },
+    "arrowUpOutline": {
+      "glyph_name": "arrow-up-outline",
+      "unicode": "0xea26",
+      "decimal": 59942,
+      "type": "outline"
+    },
+    "arrowUpward": {
+      "glyph_name": "arrow-upward",
+      "unicode": "0xea27",
+      "decimal": 59943,
+      "type": "fill"
+    },
+    "arrowUpwardOutline": {
+      "glyph_name": "arrow-upward",
+      "unicode": "0xea28",
+      "decimal": 59944,
+      "type": "fill"
+    },
+    "arrowheadDown": {
+      "glyph_name": "arrowhead-down",
+      "unicode": "0xea29",
+      "decimal": 59945,
+      "type": "fill"
+    },
+    "arrowheadDownOutline": {
+      "glyph_name": "arrowhead-down",
+      "unicode": "0xea2a",
+      "decimal": 59946,
+      "type": "fill"
+    },
+    "arrowheadLeft": {
+      "glyph_name": "arrowhead-left",
+      "unicode": "0xea2b",
+      "decimal": 59947,
+      "type": "fill"
+    },
+    "arrowheadLeftOutline": {
+      "glyph_name": "arrowhead-left",
+      "unicode": "0xea2c",
+      "decimal": 59948,
+      "type": "fill"
+    },
+    "arrowheadRight": {
+      "glyph_name": "arrowhead-right",
+      "unicode": "0xea2d",
+      "decimal": 59949,
+      "type": "fill"
+    },
+    "arrowheadRightOutline": {
+      "glyph_name": "arrowhead-right",
+      "unicode": "0xea2e",
+      "decimal": 59950,
+      "type": "fill"
+    },
+    "arrowheadUp": {
+      "glyph_name": "arrowhead-up",
+      "unicode": "0xea2f",
+      "decimal": 59951,
+      "type": "fill"
+    },
+    "arrowheadUpOutline": {
+      "glyph_name": "arrowhead-up",
+      "unicode": "0xea30",
+      "decimal": 59952,
+      "type": "fill"
+    },
+    "at": {
+      "glyph_name": "at",
+      "unicode": "0xea31",
+      "decimal": 59953,
+      "type": "fill"
+    },
+    "atOutline": {
+      "glyph_name": "at",
+      "unicode": "0xea32",
+      "decimal": 59954,
+      "type": "fill"
+    },
+    "attach2": {
+      "glyph_name": "attach-2",
+      "unicode": "0xea34",
+      "decimal": 59956,
+      "type": "fill"
+    },
+    "attach2Outline": {
+      "glyph_name": "attach-2",
+      "unicode": "0xea35",
+      "decimal": 59957,
+      "type": "fill"
+    },
+    "attach": {
+      "glyph_name": "attach",
+      "unicode": "0xea36",
+      "decimal": 59958,
+      "type": "fill"
+    },
+    "award": {
+      "glyph_name": "award",
+      "unicode": "0xea37",
+      "decimal": 59959,
+      "type": "fill"
+    },
+    "awardOutline": {
+      "glyph_name": "award-outline",
+      "unicode": "0xea38",
+      "decimal": 59960,
+      "type": "outline"
+    },
+    "backspace": {
+      "glyph_name": "backspace",
+      "unicode": "0xea39",
+      "decimal": 59961,
+      "type": "fill"
+    },
+    "backspaceOutline": {
+      "glyph_name": "backspace-outline",
+      "unicode": "0xea3a",
+      "decimal": 59962,
+      "type": "outline"
+    },
+    "barChart2": {
+      "glyph_name": "bar-chart-2",
+      "unicode": "0xea3c",
+      "decimal": 59964,
+      "type": "fill"
+    },
+    "barChart2Outline": {
+      "glyph_name": "bar-chart-2",
+      "unicode": "0xea3d",
+      "decimal": 59965,
+      "type": "fill"
+    },
+    "barChart": {
+      "glyph_name": "bar-chart",
+      "unicode": "0xea3e",
+      "decimal": 59966,
+      "type": "fill"
+    },
+    "battery": {
+      "glyph_name": "battery",
+      "unicode": "0xea3f",
+      "decimal": 59967,
+      "type": "fill"
+    },
+    "batteryOutline": {
+      "glyph_name": "battery-outline",
+      "unicode": "0xea40",
+      "decimal": 59968,
+      "type": "outline"
+    },
+    "behance": {
+      "glyph_name": "behance",
+      "unicode": "0xea41",
+      "decimal": 59969,
+      "type": "fill"
+    },
+    "behanceOutline": {
+      "glyph_name": "behance-outline",
+      "unicode": "0xea42",
+      "decimal": 59970,
+      "type": "outline"
+    },
+    "bell": {
+      "glyph_name": "bell",
+      "unicode": "0xea43",
+      "decimal": 59971,
+      "type": "fill"
+    },
+    "bellOff": {
+      "glyph_name": "bell-off",
+      "unicode": "0xea44",
+      "decimal": 59972,
+      "type": "fill"
+    },
+    "bellOffOutline": {
+      "glyph_name": "bell-off-outline",
+      "unicode": "0xea45",
+      "decimal": 59973,
+      "type": "outline"
+    },
+    "bellOutline": {
+      "glyph_name": "bell-outline",
+      "unicode": "0xea46",
+      "decimal": 59974,
+      "type": "outline"
+    },
+    "bluetooth": {
+      "glyph_name": "bluetooth",
+      "unicode": "0xea47",
+      "decimal": 59975,
+      "type": "fill"
+    },
+    "bluetoothOutline": {
+      "glyph_name": "bluetooth",
+      "unicode": "0xea48",
+      "decimal": 59976,
+      "type": "fill"
+    },
+    "book": {
+      "glyph_name": "book",
+      "unicode": "0xea49",
+      "decimal": 59977,
+      "type": "fill"
+    },
+    "bookOpen": {
+      "glyph_name": "book-open",
+      "unicode": "0xea4a",
+      "decimal": 59978,
+      "type": "fill"
+    },
+    "bookOpenOutline": {
+      "glyph_name": "book-open-outline",
+      "unicode": "0xea4b",
+      "decimal": 59979,
+      "type": "outline"
+    },
+    "bookOutline": {
+      "glyph_name": "book-outline",
+      "unicode": "0xea4c",
+      "decimal": 59980,
+      "type": "outline"
+    },
+    "bookmark": {
+      "glyph_name": "bookmark",
+      "unicode": "0xea4d",
+      "decimal": 59981,
+      "type": "fill"
+    },
+    "bookmarkOutline": {
+      "glyph_name": "bookmark-outline",
+      "unicode": "0xea4e",
+      "decimal": 59982,
+      "type": "outline"
+    },
+    "briefcase": {
+      "glyph_name": "briefcase",
+      "unicode": "0xea4f",
+      "decimal": 59983,
+      "type": "fill"
+    },
+    "briefcaseOutline": {
+      "glyph_name": "briefcase-outline",
+      "unicode": "0xea50",
+      "decimal": 59984,
+      "type": "outline"
+    },
+    "browser": {
+      "glyph_name": "browser",
+      "unicode": "0xea51",
+      "decimal": 59985,
+      "type": "fill"
+    },
+    "browserOutline": {
+      "glyph_name": "browser-outline",
+      "unicode": "0xea52",
+      "decimal": 59986,
+      "type": "outline"
+    },
+    "brush": {
+      "glyph_name": "brush",
+      "unicode": "0xea53",
+      "decimal": 59987,
+      "type": "fill"
+    },
+    "brushOutline": {
+      "glyph_name": "brush-outline",
+      "unicode": "0xea54",
+      "decimal": 59988,
+      "type": "outline"
+    },
+    "bulb": {
+      "glyph_name": "bulb",
+      "unicode": "0xea55",
+      "decimal": 59989,
+      "type": "fill"
+    },
+    "bulbOutline": {
+      "glyph_name": "bulb-outline",
+      "unicode": "0xea56",
+      "decimal": 59990,
+      "type": "outline"
+    },
+    "calendar": {
+      "glyph_name": "calendar",
+      "unicode": "0xea57",
+      "decimal": 59991,
+      "type": "fill"
+    },
+    "calendarOutline": {
+      "glyph_name": "calendar-outline",
+      "unicode": "0xea58",
+      "decimal": 59992,
+      "type": "outline"
+    },
+    "camera": {
+      "glyph_name": "camera",
+      "unicode": "0xea59",
+      "decimal": 59993,
+      "type": "fill"
+    },
+    "cameraOutline": {
+      "glyph_name": "camera-outline",
+      "unicode": "0xea5a",
+      "decimal": 59994,
+      "type": "outline"
+    },
+    "car": {
+      "glyph_name": "car",
+      "unicode": "0xea5b",
+      "decimal": 59995,
+      "type": "fill"
+    },
+    "carOutline": {
+      "glyph_name": "car-outline",
+      "unicode": "0xea5c",
+      "decimal": 59996,
+      "type": "outline"
+    },
+    "cast": {
+      "glyph_name": "cast",
+      "unicode": "0xea5d",
+      "decimal": 59997,
+      "type": "fill"
+    },
+    "castOutline": {
+      "glyph_name": "cast",
+      "unicode": "0xea5e",
+      "decimal": 59998,
+      "type": "fill"
+    },
+    "charging": {
+      "glyph_name": "charging",
+      "unicode": "0xea5f",
+      "decimal": 59999,
+      "type": "fill"
+    },
+    "chargingOutline": {
+      "glyph_name": "charging-outline",
+      "unicode": "0xea60",
+      "decimal": 60000,
+      "type": "outline"
+    },
+    "checkmarkCircle2": {
+      "glyph_name": "checkmark-circle-2",
+      "unicode": "0xea63",
+      "decimal": 60003,
+      "type": "fill"
+    },
+    "checkmarkCircle2Outline": {
+      "glyph_name": "checkmark-circle-2-outline",
+      "unicode": "0xea64",
+      "decimal": 60004,
+      "type": "outline"
+    },
+    "checkmarkCircle": {
+      "glyph_name": "checkmark-circle",
+      "unicode": "0xea65",
+      "decimal": 60005,
+      "type": "fill"
+    },
+    "checkmark": {
+      "glyph_name": "checkmark",
+      "unicode": "0xea66",
+      "decimal": 60006,
+      "type": "fill"
+    },
+    "checkmarkSquare2": {
+      "glyph_name": "checkmark-square-2",
+      "unicode": "0xea68",
+      "decimal": 60008,
+      "type": "fill"
+    },
+    "checkmarkSquare2Outline": {
+      "glyph_name": "checkmark-square-2-outline",
+      "unicode": "0xea69",
+      "decimal": 60009,
+      "type": "outline"
+    },
+    "checkmarkSquare": {
+      "glyph_name": "checkmark-square",
+      "unicode": "0xea6a",
+      "decimal": 60010,
+      "type": "fill"
+    },
+    "chevronDown": {
+      "glyph_name": "chevron-down",
+      "unicode": "0xea6b",
+      "decimal": 60011,
+      "type": "fill"
+    },
+    "chevronDownOutline": {
+      "glyph_name": "chevron-down",
+      "unicode": "0xea6c",
+      "decimal": 60012,
+      "type": "fill"
+    },
+    "chevronLeft": {
+      "glyph_name": "chevron-left",
+      "unicode": "0xea6d",
+      "decimal": 60013,
+      "type": "fill"
+    },
+    "chevronLeftOutline": {
+      "glyph_name": "chevron-left",
+      "unicode": "0xea6e",
+      "decimal": 60014,
+      "type": "fill"
+    },
+    "chevronRight": {
+      "glyph_name": "chevron-right",
+      "unicode": "0xea6f",
+      "decimal": 60015,
+      "type": "fill"
+    },
+    "chevronRightOutline": {
+      "glyph_name": "chevron-right",
+      "unicode": "0xea70",
+      "decimal": 60016,
+      "type": "fill"
+    },
+    "chevronUp": {
+      "glyph_name": "chevron-up",
+      "unicode": "0xea71",
+      "decimal": 60017,
+      "type": "fill"
+    },
+    "chevronUpOutline": {
+      "glyph_name": "chevron-up",
+      "unicode": "0xea72",
+      "decimal": 60018,
+      "type": "fill"
+    },
+    "clipboard": {
+      "glyph_name": "clipboard",
+      "unicode": "0xea73",
+      "decimal": 60019,
+      "type": "fill"
+    },
+    "clipboardOutline": {
+      "glyph_name": "clipboard-outline",
+      "unicode": "0xea74",
+      "decimal": 60020,
+      "type": "outline"
+    },
+    "clock": {
+      "glyph_name": "clock",
+      "unicode": "0xea75",
+      "decimal": 60021,
+      "type": "fill"
+    },
+    "clockOutline": {
+      "glyph_name": "clock-outline",
+      "unicode": "0xea76",
+      "decimal": 60022,
+      "type": "outline"
+    },
+    "closeCircle": {
+      "glyph_name": "close-circle",
+      "unicode": "0xea78",
+      "decimal": 60024,
+      "type": "fill"
+    },
+    "closeCircleOutline": {
+      "glyph_name": "close-circle-outline",
+      "unicode": "0xea79",
+      "decimal": 60025,
+      "type": "outline"
+    },
+    "close": {
+      "glyph_name": "close",
+      "unicode": "0xea7a",
+      "decimal": 60026,
+      "type": "fill"
+    },
+    "closeSquare": {
+      "glyph_name": "close-square",
+      "unicode": "0xea7b",
+      "decimal": 60027,
+      "type": "fill"
+    },
+    "closeSquareOutline": {
+      "glyph_name": "close-square-outline",
+      "unicode": "0xea7c",
+      "decimal": 60028,
+      "type": "outline"
+    },
+    "cloudDownload": {
+      "glyph_name": "cloud-download",
+      "unicode": "0xea7d",
+      "decimal": 60029,
+      "type": "fill"
+    },
+    "cloudDownloadOutline": {
+      "glyph_name": "cloud-download-outline",
+      "unicode": "0xea7e",
+      "decimal": 60030,
+      "type": "outline"
+    },
+    "cloudUpload": {
+      "glyph_name": "cloud-upload",
+      "unicode": "0xea7f",
+      "decimal": 60031,
+      "type": "fill"
+    },
+    "cloudUploadOutline": {
+      "glyph_name": "cloud-upload-outline",
+      "unicode": "0xea80",
+      "decimal": 60032,
+      "type": "outline"
+    },
+    "codeDownload": {
+      "glyph_name": "code-download",
+      "unicode": "0xea82",
+      "decimal": 60034,
+      "type": "fill"
+    },
+    "codeDownloadOutline": {
+      "glyph_name": "code-download",
+      "unicode": "0xea83",
+      "decimal": 60035,
+      "type": "fill"
+    },
+    "code": {
+      "glyph_name": "code",
+      "unicode": "0xea84",
+      "decimal": 60036,
+      "type": "fill"
+    },
+    "collapse": {
+      "glyph_name": "collapse",
+      "unicode": "0xea85",
+      "decimal": 60037,
+      "type": "fill"
+    },
+    "collapseOutline": {
+      "glyph_name": "collapse",
+      "unicode": "0xea86",
+      "decimal": 60038,
+      "type": "fill"
+    },
+    "colorPalette": {
+      "glyph_name": "color-palette",
+      "unicode": "0xea87",
+      "decimal": 60039,
+      "type": "fill"
+    },
+    "colorPaletteOutline": {
+      "glyph_name": "color-palette-outline",
+      "unicode": "0xea88",
+      "decimal": 60040,
+      "type": "outline"
+    },
+    "colorPicker": {
+      "glyph_name": "color-picker",
+      "unicode": "0xea89",
+      "decimal": 60041,
+      "type": "fill"
+    },
+    "colorPickerOutline": {
+      "glyph_name": "color-picker-outline",
+      "unicode": "0xea8a",
+      "decimal": 60042,
+      "type": "outline"
+    },
+    "compass": {
+      "glyph_name": "compass",
+      "unicode": "0xea8b",
+      "decimal": 60043,
+      "type": "fill"
+    },
+    "compassOutline": {
+      "glyph_name": "compass-outline",
+      "unicode": "0xea8c",
+      "decimal": 60044,
+      "type": "outline"
+    },
+    "copy": {
+      "glyph_name": "copy",
+      "unicode": "0xea8d",
+      "decimal": 60045,
+      "type": "fill"
+    },
+    "copyOutline": {
+      "glyph_name": "copy-outline",
+      "unicode": "0xea8e",
+      "decimal": 60046,
+      "type": "outline"
+    },
+    "cornerDownLeft": {
+      "glyph_name": "corner-down-left",
+      "unicode": "0xea8f",
+      "decimal": 60047,
+      "type": "fill"
+    },
+    "cornerDownLeftOutline": {
+      "glyph_name": "corner-down-left",
+      "unicode": "0xea90",
+      "decimal": 60048,
+      "type": "fill"
+    },
+    "cornerDownRight": {
+      "glyph_name": "corner-down-right",
+      "unicode": "0xea91",
+      "decimal": 60049,
+      "type": "fill"
+    },
+    "cornerDownRightOutline": {
+      "glyph_name": "corner-down-right",
+      "unicode": "0xea92",
+      "decimal": 60050,
+      "type": "fill"
+    },
+    "cornerLeftDown": {
+      "glyph_name": "corner-left-down",
+      "unicode": "0xea93",
+      "decimal": 60051,
+      "type": "fill"
+    },
+    "cornerLeftDownOutline": {
+      "glyph_name": "corner-left-down",
+      "unicode": "0xea94",
+      "decimal": 60052,
+      "type": "fill"
+    },
+    "cornerLeftUp": {
+      "glyph_name": "corner-left-up",
+      "unicode": "0xea95",
+      "decimal": 60053,
+      "type": "fill"
+    },
+    "cornerLeftUpOutline": {
+      "glyph_name": "corner-left-up",
+      "unicode": "0xea96",
+      "decimal": 60054,
+      "type": "fill"
+    },
+    "cornerRightDown": {
+      "glyph_name": "corner-right-down",
+      "unicode": "0xea97",
+      "decimal": 60055,
+      "type": "fill"
+    },
+    "cornerRightDownOutline": {
+      "glyph_name": "corner-right-down",
+      "unicode": "0xea98",
+      "decimal": 60056,
+      "type": "fill"
+    },
+    "cornerRightUp": {
+      "glyph_name": "corner-right-up",
+      "unicode": "0xea99",
+      "decimal": 60057,
+      "type": "fill"
+    },
+    "cornerRightUpOutline": {
+      "glyph_name": "corner-right-up",
+      "unicode": "0xea9a",
+      "decimal": 60058,
+      "type": "fill"
+    },
+    "cornerUpLeft": {
+      "glyph_name": "corner-up-left",
+      "unicode": "0xea9b",
+      "decimal": 60059,
+      "type": "fill"
+    },
+    "cornerUpLeftOutline": {
+      "glyph_name": "corner-up-left",
+      "unicode": "0xea9c",
+      "decimal": 60060,
+      "type": "fill"
+    },
+    "cornerUpRight": {
+      "glyph_name": "corner-up-right",
+      "unicode": "0xea9d",
+      "decimal": 60061,
+      "type": "fill"
+    },
+    "cornerUpRightOutline": {
+      "glyph_name": "corner-up-right",
+      "unicode": "0xea9e",
+      "decimal": 60062,
+      "type": "fill"
+    },
+    "creditCard": {
+      "glyph_name": "credit-card",
+      "unicode": "0xea9f",
+      "decimal": 60063,
+      "type": "fill"
+    },
+    "creditCardOutline": {
+      "glyph_name": "credit-card-outline",
+      "unicode": "0xeaa0",
+      "decimal": 60064,
+      "type": "outline"
+    },
+    "crop": {
+      "glyph_name": "crop",
+      "unicode": "0xeaa1",
+      "decimal": 60065,
+      "type": "fill"
+    },
+    "cropOutline": {
+      "glyph_name": "crop",
+      "unicode": "0xeaa2",
+      "decimal": 60066,
+      "type": "fill"
+    },
+    "cube": {
+      "glyph_name": "cube",
+      "unicode": "0xeaa3",
+      "decimal": 60067,
+      "type": "fill"
+    },
+    "cubeOutline": {
+      "glyph_name": "cube-outline",
+      "unicode": "0xeaa4",
+      "decimal": 60068,
+      "type": "outline"
+    },
+    "diagonalArrowLeftDown": {
+      "glyph_name": "diagonal-arrow-left-down",
+      "unicode": "0xeaa5",
+      "decimal": 60069,
+      "type": "fill"
+    },
+    "diagonalArrowLeftDownOutline": {
+      "glyph_name": "diagonal-arrow-left-down",
+      "unicode": "0xeaa6",
+      "decimal": 60070,
+      "type": "fill"
+    },
+    "diagonalArrowLeftUp": {
+      "glyph_name": "diagonal-arrow-left-up",
+      "unicode": "0xeaa7",
+      "decimal": 60071,
+      "type": "fill"
+    },
+    "diagonalArrowLeftUpOutline": {
+      "glyph_name": "diagonal-arrow-left-up",
+      "unicode": "0xeaa8",
+      "decimal": 60072,
+      "type": "fill"
+    },
+    "diagonalArrowRightDown": {
+      "glyph_name": "diagonal-arrow-right-down",
+      "unicode": "0xeaa9",
+      "decimal": 60073,
+      "type": "fill"
+    },
+    "diagonalArrowRightDownOutline": {
+      "glyph_name": "diagonal-arrow-right-down",
+      "unicode": "0xeaaa",
+      "decimal": 60074,
+      "type": "fill"
+    },
+    "diagonalArrowRightUp": {
+      "glyph_name": "diagonal-arrow-right-up",
+      "unicode": "0xeaab",
+      "decimal": 60075,
+      "type": "fill"
+    },
+    "diagonalArrowRightUpOutline": {
+      "glyph_name": "diagonal-arrow-right-up",
+      "unicode": "0xeaac",
+      "decimal": 60076,
+      "type": "fill"
+    },
+    "doneAll": {
+      "glyph_name": "done-all",
+      "unicode": "0xeaad",
+      "decimal": 60077,
+      "type": "fill"
+    },
+    "doneAllOutline": {
+      "glyph_name": "done-all",
+      "unicode": "0xeaae",
+      "decimal": 60078,
+      "type": "fill"
+    },
+    "download": {
+      "glyph_name": "download",
+      "unicode": "0xeaaf",
+      "decimal": 60079,
+      "type": "fill"
+    },
+    "downloadOutline": {
+      "glyph_name": "download",
+      "unicode": "0xeab0",
+      "decimal": 60080,
+      "type": "fill"
+    },
+    "droplet": {
+      "glyph_name": "droplet",
+      "unicode": "0xeab1",
+      "decimal": 60081,
+      "type": "fill"
+    },
+    "dropletOff": {
+      "glyph_name": "droplet-off",
+      "unicode": "0xeab2",
+      "decimal": 60082,
+      "type": "fill"
+    },
+    "dropletOffOutline": {
+      "glyph_name": "droplet-off-outline",
+      "unicode": "0xeab3",
+      "decimal": 60083,
+      "type": "outline"
+    },
+    "dropletOutline": {
+      "glyph_name": "droplet-outline",
+      "unicode": "0xeab4",
+      "decimal": 60084,
+      "type": "outline"
+    },
+    "edit": {
+      "glyph_name": "edit",
+      "unicode": "0xeab5",
+      "decimal": 60085,
+      "type": "fill"
+    },
+    "edit2": {
+      "glyph_name": "edit-2",
+      "unicode": "0xeab6",
+      "decimal": 60086,
+      "type": "fill"
+    },
+    "edit2Outline": {
+      "glyph_name": "edit-2-outline",
+      "unicode": "0xeab7",
+      "decimal": 60087,
+      "type": "outline"
+    },
+    "editOutline": {
+      "glyph_name": "edit-outline",
+      "unicode": "0xeab8",
+      "decimal": 60088,
+      "type": "outline"
+    },
+    "email": {
+      "glyph_name": "email",
+      "unicode": "0xeab9",
+      "decimal": 60089,
+      "type": "fill"
+    },
+    "emailOutline": {
+      "glyph_name": "email-outline",
+      "unicode": "0xeaba",
+      "decimal": 60090,
+      "type": "outline"
+    },
+    "expand": {
+      "glyph_name": "expand",
+      "unicode": "0xeabb",
+      "decimal": 60091,
+      "type": "fill"
+    },
+    "expandOutline": {
+      "glyph_name": "expand",
+      "unicode": "0xeabc",
+      "decimal": 60092,
+      "type": "fill"
+    },
+    "externalLink": {
+      "glyph_name": "external-link",
+      "unicode": "0xeabd",
+      "decimal": 60093,
+      "type": "fill"
+    },
+    "externalLinkOutline": {
+      "glyph_name": "external-link",
+      "unicode": "0xeabe",
+      "decimal": 60094,
+      "type": "fill"
+    },
+    "eye": {
+      "glyph_name": "eye",
+      "unicode": "0xeabf",
+      "decimal": 60095,
+      "type": "fill"
+    },
+    "eyeOff": {
+      "glyph_name": "eye-off",
+      "unicode": "0xeac0",
+      "decimal": 60096,
+      "type": "fill"
+    },
+    "eyeOff2": {
+      "glyph_name": "eye-off-2",
+      "unicode": "0xeac1",
+      "decimal": 60097,
+      "type": "fill"
+    },
+    "eyeOff2Outline": {
+      "glyph_name": "eye-off-2",
+      "unicode": "0xeac2",
+      "decimal": 60098,
+      "type": "fill"
+    },
+    "eyeOffOutline": {
+      "glyph_name": "eye-off-outline",
+      "unicode": "0xeac3",
+      "decimal": 60099,
+      "type": "outline"
+    },
+    "eyeOutline": {
+      "glyph_name": "eye-outline",
+      "unicode": "0xeac4",
+      "decimal": 60100,
+      "type": "outline"
+    },
+    "facebook": {
+      "glyph_name": "facebook",
+      "unicode": "0xeac5",
+      "decimal": 60101,
+      "type": "fill"
+    },
+    "facebookOutline": {
+      "glyph_name": "facebook-outline",
+      "unicode": "0xeac6",
+      "decimal": 60102,
+      "type": "outline"
+    },
+    "file": {
+      "glyph_name": "file",
+      "unicode": "0xeac7",
+      "decimal": 60103,
+      "type": "fill"
+    },
+    "fileAdd": {
+      "glyph_name": "file-add",
+      "unicode": "0xeac8",
+      "decimal": 60104,
+      "type": "fill"
+    },
+    "fileAddOutline": {
+      "glyph_name": "file-add-outline",
+      "unicode": "0xeac9",
+      "decimal": 60105,
+      "type": "outline"
+    },
+    "fileOutline": {
+      "glyph_name": "file-outline",
+      "unicode": "0xeaca",
+      "decimal": 60106,
+      "type": "outline"
+    },
+    "fileRemove": {
+      "glyph_name": "file-remove",
+      "unicode": "0xeacb",
+      "decimal": 60107,
+      "type": "fill"
+    },
+    "fileRemoveOutline": {
+      "glyph_name": "file-remove-outline",
+      "unicode": "0xeacc",
+      "decimal": 60108,
+      "type": "outline"
+    },
+    "fileText": {
+      "glyph_name": "file-text",
+      "unicode": "0xeacd",
+      "decimal": 60109,
+      "type": "fill"
+    },
+    "fileTextOutline": {
+      "glyph_name": "file-text-outline",
+      "unicode": "0xeace",
+      "decimal": 60110,
+      "type": "outline"
+    },
+    "film": {
+      "glyph_name": "film",
+      "unicode": "0xeacf",
+      "decimal": 60111,
+      "type": "fill"
+    },
+    "filmOutline": {
+      "glyph_name": "film-outline",
+      "unicode": "0xead0",
+      "decimal": 60112,
+      "type": "outline"
+    },
+    "flag": {
+      "glyph_name": "flag",
+      "unicode": "0xead1",
+      "decimal": 60113,
+      "type": "fill"
+    },
+    "flagOutline": {
+      "glyph_name": "flag-outline",
+      "unicode": "0xead2",
+      "decimal": 60114,
+      "type": "outline"
+    },
+    "flash": {
+      "glyph_name": "flash",
+      "unicode": "0xead3",
+      "decimal": 60115,
+      "type": "fill"
+    },
+    "flashOff": {
+      "glyph_name": "flash-off",
+      "unicode": "0xead4",
+      "decimal": 60116,
+      "type": "fill"
+    },
+    "flashOffOutline": {
+      "glyph_name": "flash-off-outline",
+      "unicode": "0xead5",
+      "decimal": 60117,
+      "type": "outline"
+    },
+    "flashOutline": {
+      "glyph_name": "flash-outline",
+      "unicode": "0xead6",
+      "decimal": 60118,
+      "type": "outline"
+    },
+    "flip2": {
+      "glyph_name": "flip-2",
+      "unicode": "0xead8",
+      "decimal": 60120,
+      "type": "fill"
+    },
+    "flip2Outline": {
+      "glyph_name": "flip-2",
+      "unicode": "0xead9",
+      "decimal": 60121,
+      "type": "fill"
+    },
+    "flip": {
+      "glyph_name": "flip",
+      "unicode": "0xeada",
+      "decimal": 60122,
+      "type": "fill"
+    },
+    "folder": {
+      "glyph_name": "folder",
+      "unicode": "0xeadb",
+      "decimal": 60123,
+      "type": "fill"
+    },
+    "folderAdd": {
+      "glyph_name": "folder-add",
+      "unicode": "0xeadc",
+      "decimal": 60124,
+      "type": "fill"
+    },
+    "folderAddOutline": {
+      "glyph_name": "folder-add-outline",
+      "unicode": "0xeadd",
+      "decimal": 60125,
+      "type": "outline"
+    },
+    "folderOutline": {
+      "glyph_name": "folder-outline",
+      "unicode": "0xeade",
+      "decimal": 60126,
+      "type": "outline"
+    },
+    "folderRemove": {
+      "glyph_name": "folder-remove",
+      "unicode": "0xeadf",
+      "decimal": 60127,
+      "type": "fill"
+    },
+    "folderRemoveOutline": {
+      "glyph_name": "folder-remove-outline",
+      "unicode": "0xeae0",
+      "decimal": 60128,
+      "type": "outline"
+    },
+    "funnel": {
+      "glyph_name": "funnel",
+      "unicode": "0xeae1",
+      "decimal": 60129,
+      "type": "fill"
+    },
+    "funnelOutline": {
+      "glyph_name": "funnel-outline",
+      "unicode": "0xeae2",
+      "decimal": 60130,
+      "type": "outline"
+    },
+    "gift": {
+      "glyph_name": "gift",
+      "unicode": "0xeae3",
+      "decimal": 60131,
+      "type": "fill"
+    },
+    "giftOutline": {
+      "glyph_name": "gift-outline",
+      "unicode": "0xeae4",
+      "decimal": 60132,
+      "type": "outline"
+    },
+    "github": {
+      "glyph_name": "github",
+      "unicode": "0xeae5",
+      "decimal": 60133,
+      "type": "fill"
+    },
+    "githubOutline": {
+      "glyph_name": "github-outline",
+      "unicode": "0xeae6",
+      "decimal": 60134,
+      "type": "outline"
+    },
+    "globe2": {
+      "glyph_name": "globe-2",
+      "unicode": "0xeae8",
+      "decimal": 60136,
+      "type": "fill"
+    },
+    "globe2Outline": {
+      "glyph_name": "globe-2-outline",
+      "unicode": "0xeae9",
+      "decimal": 60137,
+      "type": "outline"
+    },
+    "globe3": {
+      "glyph_name": "globe-3",
+      "unicode": "0xeaea",
+      "decimal": 60138,
+      "type": "fill"
+    },
+    "globe": {
+      "glyph_name": "globe",
+      "unicode": "0xeaeb",
+      "decimal": 60139,
+      "type": "fill"
+    },
+    "google": {
+      "glyph_name": "google",
+      "unicode": "0xeaec",
+      "decimal": 60140,
+      "type": "fill"
+    },
+    "googleOutline": {
+      "glyph_name": "google-outline",
+      "unicode": "0xeaed",
+      "decimal": 60141,
+      "type": "outline"
+    },
+    "grid": {
+      "glyph_name": "grid",
+      "unicode": "0xeaee",
+      "decimal": 60142,
+      "type": "fill"
+    },
+    "gridOutline": {
+      "glyph_name": "grid-outline",
+      "unicode": "0xeaef",
+      "decimal": 60143,
+      "type": "outline"
+    },
+    "hardDrive": {
+      "glyph_name": "hard-drive",
+      "unicode": "0xeaf0",
+      "decimal": 60144,
+      "type": "fill"
+    },
+    "hardDriveOutline": {
+      "glyph_name": "hard-drive-outline",
+      "unicode": "0xeaf1",
+      "decimal": 60145,
+      "type": "outline"
+    },
+    "hash": {
+      "glyph_name": "hash",
+      "unicode": "0xeaf2",
+      "decimal": 60146,
+      "type": "fill"
+    },
+    "hashOutline": {
+      "glyph_name": "hash",
+      "unicode": "0xeaf3",
+      "decimal": 60147,
+      "type": "fill"
+    },
+    "headphones": {
+      "glyph_name": "headphones",
+      "unicode": "0xeaf4",
+      "decimal": 60148,
+      "type": "fill"
+    },
+    "headphonesOutline": {
+      "glyph_name": "headphones-outline",
+      "unicode": "0xeaf5",
+      "decimal": 60149,
+      "type": "outline"
+    },
+    "heart": {
+      "glyph_name": "heart",
+      "unicode": "0xeaf6",
+      "decimal": 60150,
+      "type": "fill"
+    },
+    "heartOutline": {
+      "glyph_name": "heart-outline",
+      "unicode": "0xeaf7",
+      "decimal": 60151,
+      "type": "outline"
+    },
+    "home": {
+      "glyph_name": "home",
+      "unicode": "0xeaf8",
+      "decimal": 60152,
+      "type": "fill"
+    },
+    "homeOutline": {
+      "glyph_name": "home-outline",
+      "unicode": "0xeaf9",
+      "decimal": 60153,
+      "type": "outline"
+    },
+    "image": {
+      "glyph_name": "image",
+      "unicode": "0xeafa",
+      "decimal": 60154,
+      "type": "fill"
+    },
+    "image2": {
+      "glyph_name": "image-2",
+      "unicode": "0xeafb",
+      "decimal": 60155,
+      "type": "fill"
+    },
+    "imageOutline": {
+      "glyph_name": "image-outline",
+      "unicode": "0xeafc",
+      "decimal": 60156,
+      "type": "outline"
+    },
+    "inbox": {
+      "glyph_name": "inbox",
+      "unicode": "0xeafd",
+      "decimal": 60157,
+      "type": "fill"
+    },
+    "inboxOutline": {
+      "glyph_name": "inbox-outline",
+      "unicode": "0xeafe",
+      "decimal": 60158,
+      "type": "outline"
+    },
+    "info": {
+      "glyph_name": "info",
+      "unicode": "0xeaff",
+      "decimal": 60159,
+      "type": "fill"
+    },
+    "infoOutline": {
+      "glyph_name": "info-outline",
+      "unicode": "0xeb00",
+      "decimal": 60160,
+      "type": "outline"
+    },
+    "keypad": {
+      "glyph_name": "keypad",
+      "unicode": "0xeb01",
+      "decimal": 60161,
+      "type": "fill"
+    },
+    "keypadOutline": {
+      "glyph_name": "keypad-outline",
+      "unicode": "0xeb02",
+      "decimal": 60162,
+      "type": "outline"
+    },
+    "layers": {
+      "glyph_name": "layers",
+      "unicode": "0xeb03",
+      "decimal": 60163,
+      "type": "fill"
+    },
+    "layersOutline": {
+      "glyph_name": "layers-outline",
+      "unicode": "0xeb04",
+      "decimal": 60164,
+      "type": "outline"
+    },
+    "layout": {
+      "glyph_name": "layout",
+      "unicode": "0xeb05",
+      "decimal": 60165,
+      "type": "fill"
+    },
+    "layoutOutline": {
+      "glyph_name": "layout-outline",
+      "unicode": "0xeb06",
+      "decimal": 60166,
+      "type": "outline"
+    },
+    "link2": {
+      "glyph_name": "link-2",
+      "unicode": "0xeb08",
+      "decimal": 60168,
+      "type": "fill"
+    },
+    "link2Outline": {
+      "glyph_name": "link-2",
+      "unicode": "0xeb09",
+      "decimal": 60169,
+      "type": "fill"
+    },
+    "link": {
+      "glyph_name": "link",
+      "unicode": "0xeb0a",
+      "decimal": 60170,
+      "type": "fill"
+    },
+    "linkedin": {
+      "glyph_name": "linkedin",
+      "unicode": "0xeb0b",
+      "decimal": 60171,
+      "type": "fill"
+    },
+    "linkedinOutline": {
+      "glyph_name": "linkedin-outline",
+      "unicode": "0xeb0c",
+      "decimal": 60172,
+      "type": "outline"
+    },
+    "list": {
+      "glyph_name": "list",
+      "unicode": "0xeb0d",
+      "decimal": 60173,
+      "type": "fill"
+    },
+    "listOutline": {
+      "glyph_name": "list",
+      "unicode": "0xeb0e",
+      "decimal": 60174,
+      "type": "fill"
+    },
+    "loaderOutline": {
+      "glyph_name": "loader-outline",
+      "unicode": "0xeb0f",
+      "decimal": 60175,
+      "type": "outline"
+    },
+    "lock": {
+      "glyph_name": "lock",
+      "unicode": "0xeb10",
+      "decimal": 60176,
+      "type": "fill"
+    },
+    "lockOutline": {
+      "glyph_name": "lock-outline",
+      "unicode": "0xeb11",
+      "decimal": 60177,
+      "type": "outline"
+    },
+    "logIn": {
+      "glyph_name": "log-in",
+      "unicode": "0xeb12",
+      "decimal": 60178,
+      "type": "fill"
+    },
+    "logInOutline": {
+      "glyph_name": "log-in",
+      "unicode": "0xeb13",
+      "decimal": 60179,
+      "type": "fill"
+    },
+    "logOut": {
+      "glyph_name": "log-out",
+      "unicode": "0xeb14",
+      "decimal": 60180,
+      "type": "fill"
+    },
+    "logOutOutline": {
+      "glyph_name": "log-out",
+      "unicode": "0xeb15",
+      "decimal": 60181,
+      "type": "fill"
+    },
+    "map": {
+      "glyph_name": "map",
+      "unicode": "0xeb16",
+      "decimal": 60182,
+      "type": "fill"
+    },
+    "mapOutline": {
+      "glyph_name": "map-outline",
+      "unicode": "0xeb17",
+      "decimal": 60183,
+      "type": "outline"
+    },
+    "maximize": {
+      "glyph_name": "maximize",
+      "unicode": "0xeb18",
+      "decimal": 60184,
+      "type": "fill"
+    },
+    "maximizeOutline": {
+      "glyph_name": "maximize-outline",
+      "unicode": "0xeb19",
+      "decimal": 60185,
+      "type": "outline"
+    },
+    "menu2": {
+      "glyph_name": "menu-2",
+      "unicode": "0xeb1b",
+      "decimal": 60187,
+      "type": "fill"
+    },
+    "menu2Outline": {
+      "glyph_name": "menu-2",
+      "unicode": "0xeb1c",
+      "decimal": 60188,
+      "type": "fill"
+    },
+    "menuArrow": {
+      "glyph_name": "menu-arrow",
+      "unicode": "0xeb1d",
+      "decimal": 60189,
+      "type": "fill"
+    },
+    "menuArrowOutline": {
+      "glyph_name": "menu-arrow",
+      "unicode": "0xeb1e",
+      "decimal": 60190,
+      "type": "fill"
+    },
+    "menu": {
+      "glyph_name": "menu",
+      "unicode": "0xeb1f",
+      "decimal": 60191,
+      "type": "fill"
+    },
+    "messageCircle": {
+      "glyph_name": "message-circle",
+      "unicode": "0xeb20",
+      "decimal": 60192,
+      "type": "fill"
+    },
+    "messageCircleOutline": {
+      "glyph_name": "message-circle-outline",
+      "unicode": "0xeb21",
+      "decimal": 60193,
+      "type": "outline"
+    },
+    "messageSquare": {
+      "glyph_name": "message-square",
+      "unicode": "0xeb22",
+      "decimal": 60194,
+      "type": "fill"
+    },
+    "messageSquareOutline": {
+      "glyph_name": "message-square-outline",
+      "unicode": "0xeb23",
+      "decimal": 60195,
+      "type": "outline"
+    },
+    "mic": {
+      "glyph_name": "mic",
+      "unicode": "0xeb24",
+      "decimal": 60196,
+      "type": "fill"
+    },
+    "micOff": {
+      "glyph_name": "mic-off",
+      "unicode": "0xeb25",
+      "decimal": 60197,
+      "type": "fill"
+    },
+    "micOffOutline": {
+      "glyph_name": "mic-off-outline",
+      "unicode": "0xeb26",
+      "decimal": 60198,
+      "type": "outline"
+    },
+    "micOutline": {
+      "glyph_name": "mic-outline",
+      "unicode": "0xeb27",
+      "decimal": 60199,
+      "type": "outline"
+    },
+    "minimize": {
+      "glyph_name": "minimize",
+      "unicode": "0xeb28",
+      "decimal": 60200,
+      "type": "fill"
+    },
+    "minimizeOutline": {
+      "glyph_name": "minimize-outline",
+      "unicode": "0xeb29",
+      "decimal": 60201,
+      "type": "outline"
+    },
+    "minusCircle": {
+      "glyph_name": "minus-circle",
+      "unicode": "0xeb2b",
+      "decimal": 60203,
+      "type": "fill"
+    },
+    "minusCircleOutline": {
+      "glyph_name": "minus-circle-outline",
+      "unicode": "0xeb2c",
+      "decimal": 60204,
+      "type": "outline"
+    },
+    "minus": {
+      "glyph_name": "minus",
+      "unicode": "0xeb2d",
+      "decimal": 60205,
+      "type": "fill"
+    },
+    "minusSquare": {
+      "glyph_name": "minus-square",
+      "unicode": "0xeb2e",
+      "decimal": 60206,
+      "type": "fill"
+    },
+    "minusSquareOutline": {
+      "glyph_name": "minus-square-outline",
+      "unicode": "0xeb2f",
+      "decimal": 60207,
+      "type": "outline"
+    },
+    "monitor": {
+      "glyph_name": "monitor",
+      "unicode": "0xeb30",
+      "decimal": 60208,
+      "type": "fill"
+    },
+    "monitorOutline": {
+      "glyph_name": "monitor-outline",
+      "unicode": "0xeb31",
+      "decimal": 60209,
+      "type": "outline"
+    },
+    "moon": {
+      "glyph_name": "moon",
+      "unicode": "0xeb32",
+      "decimal": 60210,
+      "type": "fill"
+    },
+    "moonOutline": {
+      "glyph_name": "moon-outline",
+      "unicode": "0xeb33",
+      "decimal": 60211,
+      "type": "outline"
+    },
+    "moreHorizontal": {
+      "glyph_name": "more-horizontal",
+      "unicode": "0xeb34",
+      "decimal": 60212,
+      "type": "fill"
+    },
+    "moreHorizontalOutline": {
+      "glyph_name": "more-horizontal",
+      "unicode": "0xeb35",
+      "decimal": 60213,
+      "type": "fill"
+    },
+    "moreVertical": {
+      "glyph_name": "more-vertical",
+      "unicode": "0xeb36",
+      "decimal": 60214,
+      "type": "fill"
+    },
+    "moreVerticalOutline": {
+      "glyph_name": "more-vertical",
+      "unicode": "0xeb37",
+      "decimal": 60215,
+      "type": "fill"
+    },
+    "move": {
+      "glyph_name": "move",
+      "unicode": "0xeb38",
+      "decimal": 60216,
+      "type": "fill"
+    },
+    "moveOutline": {
+      "glyph_name": "move",
+      "unicode": "0xeb39",
+      "decimal": 60217,
+      "type": "fill"
+    },
+    "music": {
+      "glyph_name": "music",
+      "unicode": "0xeb3a",
+      "decimal": 60218,
+      "type": "fill"
+    },
+    "musicOutline": {
+      "glyph_name": "music-outline",
+      "unicode": "0xeb3b",
+      "decimal": 60219,
+      "type": "outline"
+    },
+    "navigation": {
+      "glyph_name": "navigation",
+      "unicode": "0xeb3c",
+      "decimal": 60220,
+      "type": "fill"
+    },
+    "navigation2": {
+      "glyph_name": "navigation-2",
+      "unicode": "0xeb3d",
+      "decimal": 60221,
+      "type": "fill"
+    },
+    "navigation2Outline": {
+      "glyph_name": "navigation-2-outline",
+      "unicode": "0xeb3e",
+      "decimal": 60222,
+      "type": "outline"
+    },
+    "navigationOutline": {
+      "glyph_name": "navigation-outline",
+      "unicode": "0xeb3f",
+      "decimal": 60223,
+      "type": "outline"
+    },
+    "npm": {
+      "glyph_name": "npm",
+      "unicode": "0xeb40",
+      "decimal": 60224,
+      "type": "fill"
+    },
+    "npmOutline": {
+      "glyph_name": "npm-outline",
+      "unicode": "0xeb41",
+      "decimal": 60225,
+      "type": "outline"
+    },
+    "options": {
+      "glyph_name": "options",
+      "unicode": "0xeb42",
+      "decimal": 60226,
+      "type": "fill"
+    },
+    "options2": {
+      "glyph_name": "options-2",
+      "unicode": "0xeb43",
+      "decimal": 60227,
+      "type": "fill"
+    },
+    "options2Outline": {
+      "glyph_name": "options-2-outline",
+      "unicode": "0xeb44",
+      "decimal": 60228,
+      "type": "outline"
+    },
+    "optionsOutline": {
+      "glyph_name": "options-outline",
+      "unicode": "0xeb45",
+      "decimal": 60229,
+      "type": "outline"
+    },
+    "pantone": {
+      "glyph_name": "pantone",
+      "unicode": "0xeb46",
+      "decimal": 60230,
+      "type": "fill"
+    },
+    "pantoneOutline": {
+      "glyph_name": "pantone-outline",
+      "unicode": "0xeb47",
+      "decimal": 60231,
+      "type": "outline"
+    },
+    "paperPlane": {
+      "glyph_name": "paper-plane",
+      "unicode": "0xeb48",
+      "decimal": 60232,
+      "type": "fill"
+    },
+    "paperPlaneOutline": {
+      "glyph_name": "paper-plane",
+      "unicode": "0xeb49",
+      "decimal": 60233,
+      "type": "fill"
+    },
+    "pauseCircle": {
+      "glyph_name": "pause-circle",
+      "unicode": "0xeb4a",
+      "decimal": 60234,
+      "type": "fill"
+    },
+    "pauseCircleOutline": {
+      "glyph_name": "pause-circle-outline",
+      "unicode": "0xeb4b",
+      "decimal": 60235,
+      "type": "outline"
+    },
+    "people": {
+      "glyph_name": "people",
+      "unicode": "0xeb4c",
+      "decimal": 60236,
+      "type": "fill"
+    },
+    "peopleOutline": {
+      "glyph_name": "people-outline",
+      "unicode": "0xeb4d",
+      "decimal": 60237,
+      "type": "outline"
+    },
+    "percent": {
+      "glyph_name": "percent",
+      "unicode": "0xeb4e",
+      "decimal": 60238,
+      "type": "fill"
+    },
+    "percentOutline": {
+      "glyph_name": "percent",
+      "unicode": "0xeb4f",
+      "decimal": 60239,
+      "type": "fill"
+    },
+    "person": {
+      "glyph_name": "person",
+      "unicode": "0xeb50",
+      "decimal": 60240,
+      "type": "fill"
+    },
+    "personAdd": {
+      "glyph_name": "person-add",
+      "unicode": "0xeb51",
+      "decimal": 60241,
+      "type": "fill"
+    },
+    "personAddOutline": {
+      "glyph_name": "person-add-outline",
+      "unicode": "0xeb52",
+      "decimal": 60242,
+      "type": "outline"
+    },
+    "personDelete": {
+      "glyph_name": "person-delete",
+      "unicode": "0xeb53",
+      "decimal": 60243,
+      "type": "fill"
+    },
+    "personDeleteOutline": {
+      "glyph_name": "person-delete-outline",
+      "unicode": "0xeb54",
+      "decimal": 60244,
+      "type": "outline"
+    },
+    "personDone": {
+      "glyph_name": "person-done",
+      "unicode": "0xeb55",
+      "decimal": 60245,
+      "type": "fill"
+    },
+    "personDoneOutline": {
+      "glyph_name": "person-done-outline",
+      "unicode": "0xeb56",
+      "decimal": 60246,
+      "type": "outline"
+    },
+    "personOutline": {
+      "glyph_name": "person-outline",
+      "unicode": "0xeb57",
+      "decimal": 60247,
+      "type": "outline"
+    },
+    "personRemove": {
+      "glyph_name": "person-remove",
+      "unicode": "0xeb58",
+      "decimal": 60248,
+      "type": "fill"
+    },
+    "personRemoveOutline": {
+      "glyph_name": "person-remove-outline",
+      "unicode": "0xeb59",
+      "decimal": 60249,
+      "type": "outline"
+    },
+    "phone": {
+      "glyph_name": "phone",
+      "unicode": "0xeb5a",
+      "decimal": 60250,
+      "type": "fill"
+    },
+    "phoneCall": {
+      "glyph_name": "phone-call",
+      "unicode": "0xeb5b",
+      "decimal": 60251,
+      "type": "fill"
+    },
+    "phoneCallOutline": {
+      "glyph_name": "phone-call-outline",
+      "unicode": "0xeb5c",
+      "decimal": 60252,
+      "type": "outline"
+    },
+    "phoneMissed": {
+      "glyph_name": "phone-missed",
+      "unicode": "0xeb5d",
+      "decimal": 60253,
+      "type": "fill"
+    },
+    "phoneMissedOutline": {
+      "glyph_name": "phone-missed-outline",
+      "unicode": "0xeb5e",
+      "decimal": 60254,
+      "type": "outline"
+    },
+    "phoneOff": {
+      "glyph_name": "phone-off",
+      "unicode": "0xeb5f",
+      "decimal": 60255,
+      "type": "fill"
+    },
+    "phoneOffOutline": {
+      "glyph_name": "phone-off-outline",
+      "unicode": "0xeb60",
+      "decimal": 60256,
+      "type": "outline"
+    },
+    "phoneOutline": {
+      "glyph_name": "phone-outline",
+      "unicode": "0xeb61",
+      "decimal": 60257,
+      "type": "outline"
+    },
+    "pieChart": {
+      "glyph_name": "pie-chart",
+      "unicode": "0xeb62",
+      "decimal": 60258,
+      "type": "fill"
+    },
+    "pieChart2": {
+      "glyph_name": "pie-chart-2",
+      "unicode": "0xeb63",
+      "decimal": 60259,
+      "type": "fill"
+    },
+    "pieChartOutline": {
+      "glyph_name": "pie-chart-outline",
+      "unicode": "0xeb64",
+      "decimal": 60260,
+      "type": "outline"
+    },
+    "pin": {
+      "glyph_name": "pin",
+      "unicode": "0xeb65",
+      "decimal": 60261,
+      "type": "fill"
+    },
+    "pinOutline": {
+      "glyph_name": "pin-outline",
+      "unicode": "0xeb66",
+      "decimal": 60262,
+      "type": "outline"
+    },
+    "playCircle": {
+      "glyph_name": "play-circle",
+      "unicode": "0xeb67",
+      "decimal": 60263,
+      "type": "fill"
+    },
+    "playCircleOutline": {
+      "glyph_name": "play-circle-outline",
+      "unicode": "0xeb68",
+      "decimal": 60264,
+      "type": "outline"
+    },
+    "plusCircle": {
+      "glyph_name": "plus-circle",
+      "unicode": "0xeb6a",
+      "decimal": 60266,
+      "type": "fill"
+    },
+    "plusCircleOutline": {
+      "glyph_name": "plus-circle-outline",
+      "unicode": "0xeb6b",
+      "decimal": 60267,
+      "type": "outline"
+    },
+    "plus": {
+      "glyph_name": "plus",
+      "unicode": "0xeb6c",
+      "decimal": 60268,
+      "type": "fill"
+    },
+    "plusSquare": {
+      "glyph_name": "plus-square",
+      "unicode": "0xeb6d",
+      "decimal": 60269,
+      "type": "fill"
+    },
+    "plusSquareOutline": {
+      "glyph_name": "plus-square-outline",
+      "unicode": "0xeb6e",
+      "decimal": 60270,
+      "type": "outline"
+    },
+    "power": {
+      "glyph_name": "power",
+      "unicode": "0xeb6f",
+      "decimal": 60271,
+      "type": "fill"
+    },
+    "powerOutline": {
+      "glyph_name": "power",
+      "unicode": "0xeb70",
+      "decimal": 60272,
+      "type": "fill"
+    },
+    "pricetags": {
+      "glyph_name": "pricetags",
+      "unicode": "0xeb71",
+      "decimal": 60273,
+      "type": "fill"
+    },
+    "pricetagsOutline": {
+      "glyph_name": "pricetags-outline",
+      "unicode": "0xeb72",
+      "decimal": 60274,
+      "type": "outline"
+    },
+    "printer": {
+      "glyph_name": "printer",
+      "unicode": "0xeb73",
+      "decimal": 60275,
+      "type": "fill"
+    },
+    "printerOutline": {
+      "glyph_name": "printer-outline",
+      "unicode": "0xeb74",
+      "decimal": 60276,
+      "type": "outline"
+    },
+    "questionMarkCircle": {
+      "glyph_name": "question-mark-circle",
+      "unicode": "0xeb76",
+      "decimal": 60278,
+      "type": "fill"
+    },
+    "questionMarkCircleOutline": {
+      "glyph_name": "question-mark-circle-outline",
+      "unicode": "0xeb77",
+      "decimal": 60279,
+      "type": "outline"
+    },
+    "questionMark": {
+      "glyph_name": "question-mark",
+      "unicode": "0xeb78",
+      "decimal": 60280,
+      "type": "fill"
+    },
+    "radio": {
+      "glyph_name": "radio",
+      "unicode": "0xeb79",
+      "decimal": 60281,
+      "type": "fill"
+    },
+    "radioButtonOff": {
+      "glyph_name": "radio-button-off",
+      "unicode": "0xeb7a",
+      "decimal": 60282,
+      "type": "fill"
+    },
+    "radioButtonOffOutline": {
+      "glyph_name": "radio-button-off",
+      "unicode": "0xeb7b",
+      "decimal": 60283,
+      "type": "fill"
+    },
+    "radioButtonOn": {
+      "glyph_name": "radio-button-on",
+      "unicode": "0xeb7c",
+      "decimal": 60284,
+      "type": "fill"
+    },
+    "radioButtonOnOutline": {
+      "glyph_name": "radio-button-on-outline",
+      "unicode": "0xeb7d",
+      "decimal": 60285,
+      "type": "outline"
+    },
+    "radioOutline": {
+      "glyph_name": "radio-outline",
+      "unicode": "0xeb7e",
+      "decimal": 60286,
+      "type": "outline"
+    },
+    "recording": {
+      "glyph_name": "recording",
+      "unicode": "0xeb7f",
+      "decimal": 60287,
+      "type": "fill"
+    },
+    "recordingOutline": {
+      "glyph_name": "recording-outline",
+      "unicode": "0xeb80",
+      "decimal": 60288,
+      "type": "outline"
+    },
+    "refresh": {
+      "glyph_name": "refresh",
+      "unicode": "0xeb81",
+      "decimal": 60289,
+      "type": "fill"
+    },
+    "refreshOutline": {
+      "glyph_name": "refresh",
+      "unicode": "0xeb82",
+      "decimal": 60290,
+      "type": "fill"
+    },
+    "repeat": {
+      "glyph_name": "repeat",
+      "unicode": "0xeb83",
+      "decimal": 60291,
+      "type": "fill"
+    },
+    "repeatOutline": {
+      "glyph_name": "repeat",
+      "unicode": "0xeb84",
+      "decimal": 60292,
+      "type": "fill"
+    },
+    "rewindLeft": {
+      "glyph_name": "rewind-left",
+      "unicode": "0xeb85",
+      "decimal": 60293,
+      "type": "fill"
+    },
+    "rewindLeftOutline": {
+      "glyph_name": "rewind-left-outline",
+      "unicode": "0xeb86",
+      "decimal": 60294,
+      "type": "outline"
+    },
+    "rewindRight": {
+      "glyph_name": "rewind-right",
+      "unicode": "0xeb87",
+      "decimal": 60295,
+      "type": "fill"
+    },
+    "rewindRightOutline": {
+      "glyph_name": "rewind-right-outline",
+      "unicode": "0xeb88",
+      "decimal": 60296,
+      "type": "outline"
+    },
+    "save": {
+      "glyph_name": "save",
+      "unicode": "0xeb89",
+      "decimal": 60297,
+      "type": "fill"
+    },
+    "saveOutline": {
+      "glyph_name": "save-outline",
+      "unicode": "0xeb8a",
+      "decimal": 60298,
+      "type": "outline"
+    },
+    "scissors": {
+      "glyph_name": "scissors",
+      "unicode": "0xeb8b",
+      "decimal": 60299,
+      "type": "fill"
+    },
+    "scissorsOutline": {
+      "glyph_name": "scissors",
+      "unicode": "0xeb8c",
+      "decimal": 60300,
+      "type": "fill"
+    },
+    "search": {
+      "glyph_name": "search",
+      "unicode": "0xeb8d",
+      "decimal": 60301,
+      "type": "fill"
+    },
+    "searchOutline": {
+      "glyph_name": "search",
+      "unicode": "0xeb8e",
+      "decimal": 60302,
+      "type": "fill"
+    },
+    "settings": {
+      "glyph_name": "settings",
+      "unicode": "0xeb8f",
+      "decimal": 60303,
+      "type": "fill"
+    },
+    "settings2": {
+      "glyph_name": "settings-2",
+      "unicode": "0xeb90",
+      "decimal": 60304,
+      "type": "fill"
+    },
+    "settings2Outline": {
+      "glyph_name": "settings-2-outline",
+      "unicode": "0xeb91",
+      "decimal": 60305,
+      "type": "outline"
+    },
+    "settingsOutline": {
+      "glyph_name": "settings-outline",
+      "unicode": "0xeb92",
+      "decimal": 60306,
+      "type": "outline"
+    },
+    "shake": {
+      "glyph_name": "shake",
+      "unicode": "0xeb93",
+      "decimal": 60307,
+      "type": "fill"
+    },
+    "shakeOutline": {
+      "glyph_name": "shake",
+      "unicode": "0xeb94",
+      "decimal": 60308,
+      "type": "fill"
+    },
+    "share": {
+      "glyph_name": "share",
+      "unicode": "0xeb95",
+      "decimal": 60309,
+      "type": "fill"
+    },
+    "shareOutline": {
+      "glyph_name": "share-outline",
+      "unicode": "0xeb96",
+      "decimal": 60310,
+      "type": "outline"
+    },
+    "shield": {
+      "glyph_name": "shield",
+      "unicode": "0xeb97",
+      "decimal": 60311,
+      "type": "fill"
+    },
+    "shieldOff": {
+      "glyph_name": "shield-off",
+      "unicode": "0xeb98",
+      "decimal": 60312,
+      "type": "fill"
+    },
+    "shieldOffOutline": {
+      "glyph_name": "shield-off-outline",
+      "unicode": "0xeb99",
+      "decimal": 60313,
+      "type": "outline"
+    },
+    "shieldOutline": {
+      "glyph_name": "shield-outline",
+      "unicode": "0xeb9a",
+      "decimal": 60314,
+      "type": "outline"
+    },
+    "shoppingBag": {
+      "glyph_name": "shopping-bag",
+      "unicode": "0xeb9b",
+      "decimal": 60315,
+      "type": "fill"
+    },
+    "shoppingBagOutline": {
+      "glyph_name": "shopping-bag-outline",
+      "unicode": "0xeb9c",
+      "decimal": 60316,
+      "type": "outline"
+    },
+    "shoppingCart": {
+      "glyph_name": "shopping-cart",
+      "unicode": "0xeb9d",
+      "decimal": 60317,
+      "type": "fill"
+    },
+    "shoppingCartOutline": {
+      "glyph_name": "shopping-cart-outline",
+      "unicode": "0xeb9e",
+      "decimal": 60318,
+      "type": "outline"
+    },
+    "shuffle2": {
+      "glyph_name": "shuffle-2",
+      "unicode": "0xeba0",
+      "decimal": 60320,
+      "type": "fill"
+    },
+    "shuffle2Outline": {
+      "glyph_name": "shuffle-2",
+      "unicode": "0xeba1",
+      "decimal": 60321,
+      "type": "fill"
+    },
+    "shuffle": {
+      "glyph_name": "shuffle",
+      "unicode": "0xeba2",
+      "decimal": 60322,
+      "type": "fill"
+    },
+    "skipBack": {
+      "glyph_name": "skip-back",
+      "unicode": "0xeba3",
+      "decimal": 60323,
+      "type": "fill"
+    },
+    "skipBackOutline": {
+      "glyph_name": "skip-back-outline",
+      "unicode": "0xeba4",
+      "decimal": 60324,
+      "type": "outline"
+    },
+    "skipForward": {
+      "glyph_name": "skip-forward",
+      "unicode": "0xeba5",
+      "decimal": 60325,
+      "type": "fill"
+    },
+    "skipForwardOutline": {
+      "glyph_name": "skip-forward-outline",
+      "unicode": "0xeba6",
+      "decimal": 60326,
+      "type": "outline"
+    },
+    "slash": {
+      "glyph_name": "slash",
+      "unicode": "0xeba7",
+      "decimal": 60327,
+      "type": "fill"
+    },
+    "slashOutline": {
+      "glyph_name": "slash",
+      "unicode": "0xeba8",
+      "decimal": 60328,
+      "type": "fill"
+    },
+    "smartphone": {
+      "glyph_name": "smartphone",
+      "unicode": "0xeba9",
+      "decimal": 60329,
+      "type": "fill"
+    },
+    "smartphoneOutline": {
+      "glyph_name": "smartphone-outline",
+      "unicode": "0xebaa",
+      "decimal": 60330,
+      "type": "outline"
+    },
+    "smilingFace": {
+      "glyph_name": "smiling-face",
+      "unicode": "0xebab",
+      "decimal": 60331,
+      "type": "fill"
+    },
+    "smilingFaceOutline": {
+      "glyph_name": "smiling-face",
+      "unicode": "0xebac",
+      "decimal": 60332,
+      "type": "fill"
+    },
+    "speaker": {
+      "glyph_name": "speaker",
+      "unicode": "0xebad",
+      "decimal": 60333,
+      "type": "fill"
+    },
+    "speakerOutline": {
+      "glyph_name": "speaker-outline",
+      "unicode": "0xebae",
+      "decimal": 60334,
+      "type": "outline"
+    },
+    "square": {
+      "glyph_name": "square",
+      "unicode": "0xebaf",
+      "decimal": 60335,
+      "type": "fill"
+    },
+    "squareOutline": {
+      "glyph_name": "square",
+      "unicode": "0xebb0",
+      "decimal": 60336,
+      "type": "fill"
+    },
+    "star": {
+      "glyph_name": "star",
+      "unicode": "0xebb1",
+      "decimal": 60337,
+      "type": "fill"
+    },
+    "starOutline": {
+      "glyph_name": "star-outline",
+      "unicode": "0xebb2",
+      "decimal": 60338,
+      "type": "outline"
+    },
+    "stopCircle": {
+      "glyph_name": "stop-circle",
+      "unicode": "0xebb3",
+      "decimal": 60339,
+      "type": "fill"
+    },
+    "stopCircleOutline": {
+      "glyph_name": "stop-circle-outline",
+      "unicode": "0xebb4",
+      "decimal": 60340,
+      "type": "outline"
+    },
+    "sun": {
+      "glyph_name": "sun",
+      "unicode": "0xebb5",
+      "decimal": 60341,
+      "type": "fill"
+    },
+    "sunOutline": {
+      "glyph_name": "sun-outline",
+      "unicode": "0xebb6",
+      "decimal": 60342,
+      "type": "outline"
+    },
+    "swap": {
+      "glyph_name": "swap",
+      "unicode": "0xebb7",
+      "decimal": 60343,
+      "type": "fill"
+    },
+    "swapOutline": {
+      "glyph_name": "swap",
+      "unicode": "0xebb8",
+      "decimal": 60344,
+      "type": "fill"
+    },
+    "sync": {
+      "glyph_name": "sync",
+      "unicode": "0xebb9",
+      "decimal": 60345,
+      "type": "fill"
+    },
+    "syncOutline": {
+      "glyph_name": "sync",
+      "unicode": "0xebba",
+      "decimal": 60346,
+      "type": "fill"
+    },
+    "text": {
+      "glyph_name": "text",
+      "unicode": "0xebbb",
+      "decimal": 60347,
+      "type": "fill"
+    },
+    "textOutline": {
+      "glyph_name": "text",
+      "unicode": "0xebbc",
+      "decimal": 60348,
+      "type": "fill"
+    },
+    "thermometer": {
+      "glyph_name": "thermometer",
+      "unicode": "0xebbd",
+      "decimal": 60349,
+      "type": "fill"
+    },
+    "thermometerMinus": {
+      "glyph_name": "thermometer-minus",
+      "unicode": "0xebbe",
+      "decimal": 60350,
+      "type": "fill"
+    },
+    "thermometerMinusOutline": {
+      "glyph_name": "thermometer-minus-outline",
+      "unicode": "0xebbf",
+      "decimal": 60351,
+      "type": "outline"
+    },
+    "thermometerOutline": {
+      "glyph_name": "thermometer-outline",
+      "unicode": "0xebc0",
+      "decimal": 60352,
+      "type": "outline"
+    },
+    "thermometerPlus": {
+      "glyph_name": "thermometer-plus",
+      "unicode": "0xebc1",
+      "decimal": 60353,
+      "type": "fill"
+    },
+    "thermometerPlusOutline": {
+      "glyph_name": "thermometer-plus-outline",
+      "unicode": "0xebc2",
+      "decimal": 60354,
+      "type": "outline"
+    },
+    "toggleLeft": {
+      "glyph_name": "toggle-left",
+      "unicode": "0xebc3",
+      "decimal": 60355,
+      "type": "fill"
+    },
+    "toggleLeftOutline": {
+      "glyph_name": "toggle-left-outline",
+      "unicode": "0xebc4",
+      "decimal": 60356,
+      "type": "outline"
+    },
+    "toggleRight": {
+      "glyph_name": "toggle-right",
+      "unicode": "0xebc5",
+      "decimal": 60357,
+      "type": "fill"
+    },
+    "toggleRightOutline": {
+      "glyph_name": "toggle-right-outline",
+      "unicode": "0xebc6",
+      "decimal": 60358,
+      "type": "outline"
+    },
+    "trash": {
+      "glyph_name": "trash",
+      "unicode": "0xebc7",
+      "decimal": 60359,
+      "type": "fill"
+    },
+    "trash2": {
+      "glyph_name": "trash-2",
+      "unicode": "0xebc8",
+      "decimal": 60360,
+      "type": "fill"
+    },
+    "trash2Outline": {
+      "glyph_name": "trash-2-outline",
+      "unicode": "0xebc9",
+      "decimal": 60361,
+      "type": "outline"
+    },
+    "trashOutline": {
+      "glyph_name": "trash-outline",
+      "unicode": "0xebca",
+      "decimal": 60362,
+      "type": "outline"
+    },
+    "trendingDown": {
+      "glyph_name": "trending-down",
+      "unicode": "0xebcb",
+      "decimal": 60363,
+      "type": "fill"
+    },
+    "trendingDownOutline": {
+      "glyph_name": "trending-down",
+      "unicode": "0xebcc",
+      "decimal": 60364,
+      "type": "fill"
+    },
+    "trendingUp": {
+      "glyph_name": "trending-up",
+      "unicode": "0xebcd",
+      "decimal": 60365,
+      "type": "fill"
+    },
+    "trendingUpOutline": {
+      "glyph_name": "trending-up",
+      "unicode": "0xebce",
+      "decimal": 60366,
+      "type": "fill"
+    },
+    "tv": {
+      "glyph_name": "tv",
+      "unicode": "0xebcf",
+      "decimal": 60367,
+      "type": "fill"
+    },
+    "tvOutline": {
+      "glyph_name": "tv-outline",
+      "unicode": "0xebd0",
+      "decimal": 60368,
+      "type": "outline"
+    },
+    "twitter": {
+      "glyph_name": "twitter",
+      "unicode": "0xebd1",
+      "decimal": 60369,
+      "type": "fill"
+    },
+    "twitterOutline": {
+      "glyph_name": "twitter-outline",
+      "unicode": "0xebd2",
+      "decimal": 60370,
+      "type": "outline"
+    },
+    "umbrella": {
+      "glyph_name": "umbrella",
+      "unicode": "0xebd3",
+      "decimal": 60371,
+      "type": "fill"
+    },
+    "umbrellaOutline": {
+      "glyph_name": "umbrella-outline",
+      "unicode": "0xebd4",
+      "decimal": 60372,
+      "type": "outline"
+    },
+    "undo": {
+      "glyph_name": "undo",
+      "unicode": "0xebd5",
+      "decimal": 60373,
+      "type": "fill"
+    },
+    "undoOutline": {
+      "glyph_name": "undo-outline",
+      "unicode": "0xebd6",
+      "decimal": 60374,
+      "type": "outline"
+    },
+    "unlock": {
+      "glyph_name": "unlock",
+      "unicode": "0xebd7",
+      "decimal": 60375,
+      "type": "fill"
+    },
+    "unlockOutline": {
+      "glyph_name": "unlock-outline",
+      "unicode": "0xebd8",
+      "decimal": 60376,
+      "type": "outline"
+    },
+    "upload": {
+      "glyph_name": "upload",
+      "unicode": "0xebd9",
+      "decimal": 60377,
+      "type": "fill"
+    },
+    "uploadOutline": {
+      "glyph_name": "upload",
+      "unicode": "0xebda",
+      "decimal": 60378,
+      "type": "fill"
+    },
+    "video": {
+      "glyph_name": "video",
+      "unicode": "0xebdb",
+      "decimal": 60379,
+      "type": "fill"
+    },
+    "videoOff": {
+      "glyph_name": "video-off",
+      "unicode": "0xebdc",
+      "decimal": 60380,
+      "type": "fill"
+    },
+    "videoOffOutline": {
+      "glyph_name": "video-off-outline",
+      "unicode": "0xebdd",
+      "decimal": 60381,
+      "type": "outline"
+    },
+    "videoOutline": {
+      "glyph_name": "video-outline",
+      "unicode": "0xebde",
+      "decimal": 60382,
+      "type": "outline"
+    },
+    "volumeDown": {
+      "glyph_name": "volume-down",
+      "unicode": "0xebdf",
+      "decimal": 60383,
+      "type": "fill"
+    },
+    "volumeDownOutline": {
+      "glyph_name": "volume-down-outline",
+      "unicode": "0xebe0",
+      "decimal": 60384,
+      "type": "outline"
+    },
+    "volumeMute": {
+      "glyph_name": "volume-mute",
+      "unicode": "0xebe1",
+      "decimal": 60385,
+      "type": "fill"
+    },
+    "volumeMuteOutline": {
+      "glyph_name": "volume-mute-outline",
+      "unicode": "0xebe2",
+      "decimal": 60386,
+      "type": "outline"
+    },
+    "volumeOff": {
+      "glyph_name": "volume-off",
+      "unicode": "0xebe3",
+      "decimal": 60387,
+      "type": "fill"
+    },
+    "volumeOffOutline": {
+      "glyph_name": "volume-off-outline",
+      "unicode": "0xebe4",
+      "decimal": 60388,
+      "type": "outline"
+    },
+    "volumeUp": {
+      "glyph_name": "volume-up",
+      "unicode": "0xebe5",
+      "decimal": 60389,
+      "type": "fill"
+    },
+    "volumeUpOutline": {
+      "glyph_name": "volume-up-outline",
+      "unicode": "0xebe6",
+      "decimal": 60390,
+      "type": "outline"
+    },
+    "wifiOff": {
+      "glyph_name": "wifi-off",
+      "unicode": "0xebe8",
+      "decimal": 60392,
+      "type": "fill"
+    },
+    "wifiOffOutline": {
+      "glyph_name": "wifi-off",
+      "unicode": "0xebe9",
+      "decimal": 60393,
+      "type": "fill"
+    },
+    "wifi": {
+      "glyph_name": "wifi",
+      "unicode": "0xebea",
+      "decimal": 60394,
+      "type": "fill"
+    }
+  }
+}

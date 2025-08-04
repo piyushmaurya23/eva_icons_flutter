@@ -12,7 +12,7 @@ class EvaIcons {
 
   /// Activity Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=activity-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=activity
   static const IconData activityOutline = EvaIconData(0xea02);
 
   /// Alert Circle icon
@@ -22,7 +22,7 @@ class EvaIcons {
 
   /// Alert Circle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=alert-circle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=alert-circle
   static const IconData alertCircleOutline = EvaIconData(0xea04);
 
   /// Alert Triangle icon
@@ -32,7 +32,7 @@ class EvaIcons {
 
   /// Alert Triangle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=alert-triangle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=alert-triangle
   static const IconData alertTriangleOutline = EvaIconData(0xea06);
 
   /// Archive icon
@@ -42,7 +42,7 @@ class EvaIcons {
 
   /// Archive Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=archive-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=archive
   static const IconData archiveOutline = EvaIconData(0xea08);
 
   /// Arrow Back icon
@@ -52,7 +52,7 @@ class EvaIcons {
 
   /// Arrow Back Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-back-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-back
   static const IconData arrowBackOutline = EvaIconData(0xea0a);
 
   /// Arrow Circle Down icon
@@ -62,7 +62,7 @@ class EvaIcons {
 
   /// Arrow Circle Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-circle-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-circle-down
   static const IconData arrowCircleDownOutline = EvaIconData(0xea0c);
 
   /// Arrow Circle Left icon
@@ -72,7 +72,7 @@ class EvaIcons {
 
   /// Arrow Circle Left Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-circle-left-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-circle-left
   static const IconData arrowCircleLeftOutline = EvaIconData(0xea0e);
 
   /// Arrow Circle Right icon
@@ -82,7 +82,7 @@ class EvaIcons {
 
   /// Arrow Circle Right Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-circle-right-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-circle-right
   static const IconData arrowCircleRightOutline = EvaIconData(0xea10);
 
   /// Arrow Circle Up icon
@@ -92,7 +92,7 @@ class EvaIcons {
 
   /// Arrow Circle Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-circle-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-circle-up
   static const IconData arrowCircleUpOutline = EvaIconData(0xea12);
 
   /// Arrow Down icon
@@ -102,7 +102,7 @@ class EvaIcons {
 
   /// Arrow Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-down
   static const IconData arrowDownOutline = EvaIconData(0xea14);
 
   /// Arrow Downward icon
@@ -112,7 +112,7 @@ class EvaIcons {
 
   /// Arrow Downward Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-downward-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-downward
   static const IconData arrowDownwardOutline = EvaIconData(0xea16);
 
   /// Arrow Forward icon
@@ -122,7 +122,7 @@ class EvaIcons {
 
   /// Arrow Forward Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-forward-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-forward
   static const IconData arrowForwardOutline = EvaIconData(0xea18);
 
   /// Arrow Ios Back icon
@@ -132,7 +132,7 @@ class EvaIcons {
 
   /// Arrow Ios Back Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-ios-back-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-ios-back
   static const IconData arrowIosBackOutline = EvaIconData(0xea1a);
 
   /// Arrow Ios Downward icon
@@ -142,7 +142,7 @@ class EvaIcons {
 
   /// Arrow Ios Downward Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-ios-downward-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-ios-downward
   static const IconData arrowIosDownwardOutline = EvaIconData(0xea1c);
 
   /// Arrow Ios Forward icon
@@ -152,7 +152,7 @@ class EvaIcons {
 
   /// Arrow Ios Forward Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-ios-forward-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-ios-forward
   static const IconData arrowIosForwardOutline = EvaIconData(0xea1e);
 
   /// Arrow Ios Upward icon
@@ -162,7 +162,7 @@ class EvaIcons {
 
   /// Arrow Ios Upward Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-ios-upward-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-ios-upward
   static const IconData arrowIosUpwardOutline = EvaIconData(0xea20);
 
   /// Arrow Left icon
@@ -172,7 +172,7 @@ class EvaIcons {
 
   /// Arrow Left Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-left-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-left
   static const IconData arrowLeftOutline = EvaIconData(0xea22);
 
   /// Arrow Right icon
@@ -182,7 +182,7 @@ class EvaIcons {
 
   /// Arrow Right Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-right-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-right
   static const IconData arrowRightOutline = EvaIconData(0xea24);
 
   /// Arrow Up icon
@@ -192,7 +192,7 @@ class EvaIcons {
 
   /// Arrow Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-up
   static const IconData arrowUpOutline = EvaIconData(0xea26);
 
   /// Arrow Upward icon
@@ -202,7 +202,7 @@ class EvaIcons {
 
   /// Arrow Upward Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-upward-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrow-upward
   static const IconData arrowUpwardOutline = EvaIconData(0xea28);
 
   /// Arrowhead Down icon
@@ -212,7 +212,7 @@ class EvaIcons {
 
   /// Arrowhead Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrowhead-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrowhead-down
   static const IconData arrowheadDownOutline = EvaIconData(0xea2a);
 
   /// Arrowhead Left icon
@@ -222,7 +222,7 @@ class EvaIcons {
 
   /// Arrowhead Left Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrowhead-left-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrowhead-left
   static const IconData arrowheadLeftOutline = EvaIconData(0xea2c);
 
   /// Arrowhead Right icon
@@ -232,7 +232,7 @@ class EvaIcons {
 
   /// Arrowhead Right Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrowhead-right-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrowhead-right
   static const IconData arrowheadRightOutline = EvaIconData(0xea2e);
 
   /// Arrowhead Up icon
@@ -242,7 +242,7 @@ class EvaIcons {
 
   /// Arrowhead Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrowhead-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=arrowhead-up
   static const IconData arrowheadUpOutline = EvaIconData(0xea30);
 
   /// At icon
@@ -252,23 +252,23 @@ class EvaIcons {
 
   /// At Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=at-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=at
   static const IconData atOutline = EvaIconData(0xea32);
+
+  /// Attach2 icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=attach2
+  static const IconData attach2 = EvaIconData(0xea34);
+
+  /// Attach2 Outline icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=attach2
+  static const IconData attach2Outline = EvaIconData(0xea35);
 
   /// Attach icon
   ///
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=attach
   static const IconData attach = EvaIconData(0xea36);
-
-  /// Attach 2 icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=attach-2
-  static const IconData attach2 = EvaIconData(0xea34);
-
-  /// Attach 2 Outline icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=attach-2-outline
-  static const IconData attach2Outline = EvaIconData(0xea35);
 
   /// Award icon
   ///
@@ -277,7 +277,7 @@ class EvaIcons {
 
   /// Award Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=award-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=award
   static const IconData awardOutline = EvaIconData(0xea38);
 
   /// Backspace icon
@@ -287,23 +287,23 @@ class EvaIcons {
 
   /// Backspace Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=backspace-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=backspace
   static const IconData backspaceOutline = EvaIconData(0xea3a);
+
+  /// Bar Chart2 icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=bar-chart2
+  static const IconData barChart2 = EvaIconData(0xea3c);
+
+  /// Bar Chart2 Outline icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bar-chart2
+  static const IconData barChart2Outline = EvaIconData(0xea3d);
 
   /// Bar Chart icon
   ///
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=bar-chart
   static const IconData barChart = EvaIconData(0xea3e);
-
-  /// Bar Chart 2 icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=bar-chart-2
-  static const IconData barChart2 = EvaIconData(0xea3c);
-
-  /// Bar Chart 2 Outline icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bar-chart-2-outline
-  static const IconData barChart2Outline = EvaIconData(0xea3d);
 
   /// Battery icon
   ///
@@ -312,7 +312,7 @@ class EvaIcons {
 
   /// Battery Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=battery-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=battery
   static const IconData batteryOutline = EvaIconData(0xea40);
 
   /// Behance icon
@@ -322,7 +322,7 @@ class EvaIcons {
 
   /// Behance Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=behance-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=behance
   static const IconData behanceOutline = EvaIconData(0xea42);
 
   /// Bell icon
@@ -337,12 +337,12 @@ class EvaIcons {
 
   /// Bell Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bell-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bell-off
   static const IconData bellOffOutline = EvaIconData(0xea45);
 
   /// Bell Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bell-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bell
   static const IconData bellOutline = EvaIconData(0xea46);
 
   /// Bluetooth icon
@@ -352,7 +352,7 @@ class EvaIcons {
 
   /// Bluetooth Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bluetooth-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bluetooth
   static const IconData bluetoothOutline = EvaIconData(0xea48);
 
   /// Book icon
@@ -367,12 +367,12 @@ class EvaIcons {
 
   /// Book Open Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=book-open-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=book-open
   static const IconData bookOpenOutline = EvaIconData(0xea4b);
 
   /// Book Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=book-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=book
   static const IconData bookOutline = EvaIconData(0xea4c);
 
   /// Bookmark icon
@@ -382,7 +382,7 @@ class EvaIcons {
 
   /// Bookmark Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bookmark-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bookmark
   static const IconData bookmarkOutline = EvaIconData(0xea4e);
 
   /// Briefcase icon
@@ -392,7 +392,7 @@ class EvaIcons {
 
   /// Briefcase Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=briefcase-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=briefcase
   static const IconData briefcaseOutline = EvaIconData(0xea50);
 
   /// Browser icon
@@ -402,7 +402,7 @@ class EvaIcons {
 
   /// Browser Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=browser-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=browser
   static const IconData browserOutline = EvaIconData(0xea52);
 
   /// Brush icon
@@ -412,7 +412,7 @@ class EvaIcons {
 
   /// Brush Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=brush-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=brush
   static const IconData brushOutline = EvaIconData(0xea54);
 
   /// Bulb icon
@@ -422,7 +422,7 @@ class EvaIcons {
 
   /// Bulb Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bulb-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=bulb
   static const IconData bulbOutline = EvaIconData(0xea56);
 
   /// Calendar icon
@@ -432,7 +432,7 @@ class EvaIcons {
 
   /// Calendar Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=calendar-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=calendar
   static const IconData calendarOutline = EvaIconData(0xea58);
 
   /// Camera icon
@@ -442,7 +442,7 @@ class EvaIcons {
 
   /// Camera Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=camera-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=camera
   static const IconData cameraOutline = EvaIconData(0xea5a);
 
   /// Car icon
@@ -452,7 +452,7 @@ class EvaIcons {
 
   /// Car Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=car-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=car
   static const IconData carOutline = EvaIconData(0xea5c);
 
   /// Cast icon
@@ -462,7 +462,7 @@ class EvaIcons {
 
   /// Cast Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=cast-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=cast
   static const IconData castOutline = EvaIconData(0xea5e);
 
   /// Charging icon
@@ -472,43 +472,43 @@ class EvaIcons {
 
   /// Charging Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=charging-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=charging
   static const IconData chargingOutline = EvaIconData(0xea60);
 
-  /// Checkmark icon
+  /// Checkmark Circle2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=checkmark
-  static const IconData checkmark = EvaIconData(0xea66);
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=checkmark-circle2
+  static const IconData checkmarkCircle2 = EvaIconData(0xea63);
+
+  /// Checkmark Circle2 Outline icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=checkmark-circle2
+  static const IconData checkmarkCircle2Outline = EvaIconData(0xea64);
 
   /// Checkmark Circle icon
   ///
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=checkmark-circle
   static const IconData checkmarkCircle = EvaIconData(0xea65);
 
-  /// Checkmark Circle 2 icon
+  /// Checkmark icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=checkmark-circle-2
-  static const IconData checkmarkCircle2 = EvaIconData(0xea63);
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=checkmark
+  static const IconData checkmark = EvaIconData(0xea66);
 
-  /// Checkmark Circle 2 Outline icon
+  /// Checkmark Square2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=checkmark-circle-2-outline
-  static const IconData checkmarkCircle2Outline = EvaIconData(0xea64);
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=checkmark-square2
+  static const IconData checkmarkSquare2 = EvaIconData(0xea68);
+
+  /// Checkmark Square2 Outline icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=checkmark-square2
+  static const IconData checkmarkSquare2Outline = EvaIconData(0xea69);
 
   /// Checkmark Square icon
   ///
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=checkmark-square
   static const IconData checkmarkSquare = EvaIconData(0xea6a);
-
-  /// Checkmark Square 2 icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=checkmark-square-2
-  static const IconData checkmarkSquare2 = EvaIconData(0xea68);
-
-  /// Checkmark Square 2 Outline icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=checkmark-square-2-outline
-  static const IconData checkmarkSquare2Outline = EvaIconData(0xea69);
 
   /// Chevron Down icon
   ///
@@ -517,7 +517,7 @@ class EvaIcons {
 
   /// Chevron Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=chevron-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=chevron-down
   static const IconData chevronDownOutline = EvaIconData(0xea6c);
 
   /// Chevron Left icon
@@ -527,7 +527,7 @@ class EvaIcons {
 
   /// Chevron Left Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=chevron-left-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=chevron-left
   static const IconData chevronLeftOutline = EvaIconData(0xea6e);
 
   /// Chevron Right icon
@@ -537,7 +537,7 @@ class EvaIcons {
 
   /// Chevron Right Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=chevron-right-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=chevron-right
   static const IconData chevronRightOutline = EvaIconData(0xea70);
 
   /// Chevron Up icon
@@ -547,7 +547,7 @@ class EvaIcons {
 
   /// Chevron Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=chevron-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=chevron-up
   static const IconData chevronUpOutline = EvaIconData(0xea72);
 
   /// Clipboard icon
@@ -557,7 +557,7 @@ class EvaIcons {
 
   /// Clipboard Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=clipboard-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=clipboard
   static const IconData clipboardOutline = EvaIconData(0xea74);
 
   /// Clock icon
@@ -567,13 +567,8 @@ class EvaIcons {
 
   /// Clock Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=clock-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=clock
   static const IconData clockOutline = EvaIconData(0xea76);
-
-  /// Close icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=close
-  static const IconData close = EvaIconData(0xea7a);
 
   /// Close Circle icon
   ///
@@ -582,8 +577,13 @@ class EvaIcons {
 
   /// Close Circle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=close-circle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=close-circle
   static const IconData closeCircleOutline = EvaIconData(0xea79);
+
+  /// Close icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=close
+  static const IconData close = EvaIconData(0xea7a);
 
   /// Close Square icon
   ///
@@ -592,7 +592,7 @@ class EvaIcons {
 
   /// Close Square Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=close-square-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=close-square
   static const IconData closeSquareOutline = EvaIconData(0xea7c);
 
   /// Cloud Download icon
@@ -602,7 +602,7 @@ class EvaIcons {
 
   /// Cloud Download Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=cloud-download-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=cloud-download
   static const IconData cloudDownloadOutline = EvaIconData(0xea7e);
 
   /// Cloud Upload icon
@@ -612,13 +612,8 @@ class EvaIcons {
 
   /// Cloud Upload Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=cloud-upload-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=cloud-upload
   static const IconData cloudUploadOutline = EvaIconData(0xea80);
-
-  /// Code icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=code
-  static const IconData code = EvaIconData(0xea84);
 
   /// Code Download icon
   ///
@@ -627,8 +622,13 @@ class EvaIcons {
 
   /// Code Download Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=code-download-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=code-download
   static const IconData codeDownloadOutline = EvaIconData(0xea83);
+
+  /// Code icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=code
+  static const IconData code = EvaIconData(0xea84);
 
   /// Collapse icon
   ///
@@ -637,7 +637,7 @@ class EvaIcons {
 
   /// Collapse Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=collapse-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=collapse
   static const IconData collapseOutline = EvaIconData(0xea86);
 
   /// Color Palette icon
@@ -647,7 +647,7 @@ class EvaIcons {
 
   /// Color Palette Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=color-palette-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=color-palette
   static const IconData colorPaletteOutline = EvaIconData(0xea88);
 
   /// Color Picker icon
@@ -657,7 +657,7 @@ class EvaIcons {
 
   /// Color Picker Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=color-picker-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=color-picker
   static const IconData colorPickerOutline = EvaIconData(0xea8a);
 
   /// Compass icon
@@ -667,7 +667,7 @@ class EvaIcons {
 
   /// Compass Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=compass-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=compass
   static const IconData compassOutline = EvaIconData(0xea8c);
 
   /// Copy icon
@@ -677,7 +677,7 @@ class EvaIcons {
 
   /// Copy Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=copy-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=copy
   static const IconData copyOutline = EvaIconData(0xea8e);
 
   /// Corner Down Left icon
@@ -687,7 +687,7 @@ class EvaIcons {
 
   /// Corner Down Left Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-down-left-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-down-left
   static const IconData cornerDownLeftOutline = EvaIconData(0xea90);
 
   /// Corner Down Right icon
@@ -697,7 +697,7 @@ class EvaIcons {
 
   /// Corner Down Right Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-down-right-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-down-right
   static const IconData cornerDownRightOutline = EvaIconData(0xea92);
 
   /// Corner Left Down icon
@@ -707,7 +707,7 @@ class EvaIcons {
 
   /// Corner Left Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-left-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-left-down
   static const IconData cornerLeftDownOutline = EvaIconData(0xea94);
 
   /// Corner Left Up icon
@@ -717,7 +717,7 @@ class EvaIcons {
 
   /// Corner Left Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-left-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-left-up
   static const IconData cornerLeftUpOutline = EvaIconData(0xea96);
 
   /// Corner Right Down icon
@@ -727,7 +727,7 @@ class EvaIcons {
 
   /// Corner Right Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-right-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-right-down
   static const IconData cornerRightDownOutline = EvaIconData(0xea98);
 
   /// Corner Right Up icon
@@ -737,7 +737,7 @@ class EvaIcons {
 
   /// Corner Right Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-right-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-right-up
   static const IconData cornerRightUpOutline = EvaIconData(0xea9a);
 
   /// Corner Up Left icon
@@ -747,7 +747,7 @@ class EvaIcons {
 
   /// Corner Up Left Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-up-left-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-up-left
   static const IconData cornerUpLeftOutline = EvaIconData(0xea9c);
 
   /// Corner Up Right icon
@@ -757,7 +757,7 @@ class EvaIcons {
 
   /// Corner Up Right Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-up-right-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=corner-up-right
   static const IconData cornerUpRightOutline = EvaIconData(0xea9e);
 
   /// Credit Card icon
@@ -767,7 +767,7 @@ class EvaIcons {
 
   /// Credit Card Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=credit-card-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=credit-card
   static const IconData creditCardOutline = EvaIconData(0xeaa0);
 
   /// Crop icon
@@ -777,7 +777,7 @@ class EvaIcons {
 
   /// Crop Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=crop-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=crop
   static const IconData cropOutline = EvaIconData(0xeaa2);
 
   /// Cube icon
@@ -787,7 +787,7 @@ class EvaIcons {
 
   /// Cube Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=cube-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=cube
   static const IconData cubeOutline = EvaIconData(0xeaa4);
 
   /// Diagonal Arrow Left Down icon
@@ -797,7 +797,7 @@ class EvaIcons {
 
   /// Diagonal Arrow Left Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=diagonal-arrow-left-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=diagonal-arrow-left-down
   static const IconData diagonalArrowLeftDownOutline = EvaIconData(0xeaa6);
 
   /// Diagonal Arrow Left Up icon
@@ -807,7 +807,7 @@ class EvaIcons {
 
   /// Diagonal Arrow Left Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=diagonal-arrow-left-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=diagonal-arrow-left-up
   static const IconData diagonalArrowLeftUpOutline = EvaIconData(0xeaa8);
 
   /// Diagonal Arrow Right Down icon
@@ -817,7 +817,7 @@ class EvaIcons {
 
   /// Diagonal Arrow Right Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=diagonal-arrow-right-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=diagonal-arrow-right-down
   static const IconData diagonalArrowRightDownOutline = EvaIconData(0xeaaa);
 
   /// Diagonal Arrow Right Up icon
@@ -827,7 +827,7 @@ class EvaIcons {
 
   /// Diagonal Arrow Right Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=diagonal-arrow-right-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=diagonal-arrow-right-up
   static const IconData diagonalArrowRightUpOutline = EvaIconData(0xeaac);
 
   /// Done All icon
@@ -837,7 +837,7 @@ class EvaIcons {
 
   /// Done All Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=done-all-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=done-all
   static const IconData doneAllOutline = EvaIconData(0xeaae);
 
   /// Download icon
@@ -847,7 +847,7 @@ class EvaIcons {
 
   /// Download Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=download-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=download
   static const IconData downloadOutline = EvaIconData(0xeab0);
 
   /// Droplet icon
@@ -862,12 +862,12 @@ class EvaIcons {
 
   /// Droplet Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=droplet-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=droplet-off
   static const IconData dropletOffOutline = EvaIconData(0xeab3);
 
   /// Droplet Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=droplet-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=droplet
   static const IconData dropletOutline = EvaIconData(0xeab4);
 
   /// Edit icon
@@ -875,19 +875,19 @@ class EvaIcons {
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=edit
   static const IconData edit = EvaIconData(0xeab5);
 
-  /// Edit 2 icon
+  /// Edit2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=edit-2
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=edit2
   static const IconData edit2 = EvaIconData(0xeab6);
 
-  /// Edit 2 Outline icon
+  /// Edit2 Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=edit-2-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=edit2
   static const IconData edit2Outline = EvaIconData(0xeab7);
 
   /// Edit Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=edit-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=edit
   static const IconData editOutline = EvaIconData(0xeab8);
 
   /// Email icon
@@ -897,7 +897,7 @@ class EvaIcons {
 
   /// Email Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=email-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=email
   static const IconData emailOutline = EvaIconData(0xeaba);
 
   /// Expand icon
@@ -907,7 +907,7 @@ class EvaIcons {
 
   /// Expand Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=expand-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=expand
   static const IconData expandOutline = EvaIconData(0xeabc);
 
   /// External Link icon
@@ -917,7 +917,7 @@ class EvaIcons {
 
   /// External Link Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=external-link-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=external-link
   static const IconData externalLinkOutline = EvaIconData(0xeabe);
 
   /// Eye icon
@@ -930,24 +930,24 @@ class EvaIcons {
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=eye-off
   static const IconData eyeOff = EvaIconData(0xeac0);
 
-  /// Eye Off 2 icon
+  /// Eye Off2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=eye-off-2
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=eye-off2
   static const IconData eyeOff2 = EvaIconData(0xeac1);
 
-  /// Eye Off 2 Outline icon
+  /// Eye Off2 Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=eye-off-2-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=eye-off2
   static const IconData eyeOff2Outline = EvaIconData(0xeac2);
 
   /// Eye Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=eye-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=eye-off
   static const IconData eyeOffOutline = EvaIconData(0xeac3);
 
   /// Eye Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=eye-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=eye
   static const IconData eyeOutline = EvaIconData(0xeac4);
 
   /// Facebook icon
@@ -957,7 +957,7 @@ class EvaIcons {
 
   /// Facebook Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=facebook-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=facebook
   static const IconData facebookOutline = EvaIconData(0xeac6);
 
   /// File icon
@@ -972,12 +972,12 @@ class EvaIcons {
 
   /// File Add Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=file-add-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=file-add
   static const IconData fileAddOutline = EvaIconData(0xeac9);
 
   /// File Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=file-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=file
   static const IconData fileOutline = EvaIconData(0xeaca);
 
   /// File Remove icon
@@ -987,7 +987,7 @@ class EvaIcons {
 
   /// File Remove Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=file-remove-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=file-remove
   static const IconData fileRemoveOutline = EvaIconData(0xeacc);
 
   /// File Text icon
@@ -997,7 +997,7 @@ class EvaIcons {
 
   /// File Text Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=file-text-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=file-text
   static const IconData fileTextOutline = EvaIconData(0xeace);
 
   /// Film icon
@@ -1007,7 +1007,7 @@ class EvaIcons {
 
   /// Film Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=film-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=film
   static const IconData filmOutline = EvaIconData(0xead0);
 
   /// Flag icon
@@ -1017,7 +1017,7 @@ class EvaIcons {
 
   /// Flag Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=flag-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=flag
   static const IconData flagOutline = EvaIconData(0xead2);
 
   /// Flash icon
@@ -1032,28 +1032,28 @@ class EvaIcons {
 
   /// Flash Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=flash-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=flash-off
   static const IconData flashOffOutline = EvaIconData(0xead5);
 
   /// Flash Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=flash-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=flash
   static const IconData flashOutline = EvaIconData(0xead6);
+
+  /// Flip2 icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=flip2
+  static const IconData flip2 = EvaIconData(0xead8);
+
+  /// Flip2 Outline icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=flip2
+  static const IconData flip2Outline = EvaIconData(0xead9);
 
   /// Flip icon
   ///
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=flip
   static const IconData flip = EvaIconData(0xeada);
-
-  /// Flip 2 icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=flip-2
-  static const IconData flip2 = EvaIconData(0xead8);
-
-  /// Flip 2 Outline icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=flip-2-outline
-  static const IconData flip2Outline = EvaIconData(0xead9);
 
   /// Folder icon
   ///
@@ -1067,12 +1067,12 @@ class EvaIcons {
 
   /// Folder Add Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=folder-add-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=folder-add
   static const IconData folderAddOutline = EvaIconData(0xeadd);
 
   /// Folder Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=folder-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=folder
   static const IconData folderOutline = EvaIconData(0xeade);
 
   /// Folder Remove icon
@@ -1082,7 +1082,7 @@ class EvaIcons {
 
   /// Folder Remove Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=folder-remove-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=folder-remove
   static const IconData folderRemoveOutline = EvaIconData(0xeae0);
 
   /// Funnel icon
@@ -1092,7 +1092,7 @@ class EvaIcons {
 
   /// Funnel Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=funnel-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=funnel
   static const IconData funnelOutline = EvaIconData(0xeae2);
 
   /// Gift icon
@@ -1102,7 +1102,7 @@ class EvaIcons {
 
   /// Gift Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=gift-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=gift
   static const IconData giftOutline = EvaIconData(0xeae4);
 
   /// Github icon
@@ -1112,28 +1112,28 @@ class EvaIcons {
 
   /// Github Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=github-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=github
   static const IconData githubOutline = EvaIconData(0xeae6);
+
+  /// Globe2 icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=globe2
+  static const IconData globe2 = EvaIconData(0xeae8);
+
+  /// Globe2 Outline icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=globe2
+  static const IconData globe2Outline = EvaIconData(0xeae9);
+
+  /// Globe3 icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=globe3
+  static const IconData globe3 = EvaIconData(0xeaea);
 
   /// Globe icon
   ///
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=globe
   static const IconData globe = EvaIconData(0xeaeb);
-
-  /// Globe 2 icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=globe-2
-  static const IconData globe2 = EvaIconData(0xeae8);
-
-  /// Globe 2 Outline icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=globe-2-outline
-  static const IconData globe2Outline = EvaIconData(0xeae9);
-
-  /// Globe 3 icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=globe-3
-  static const IconData globe3 = EvaIconData(0xeaea);
 
   /// Google icon
   ///
@@ -1142,7 +1142,7 @@ class EvaIcons {
 
   /// Google Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=google-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=google
   static const IconData googleOutline = EvaIconData(0xeaed);
 
   /// Grid icon
@@ -1152,7 +1152,7 @@ class EvaIcons {
 
   /// Grid Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=grid-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=grid
   static const IconData gridOutline = EvaIconData(0xeaef);
 
   /// Hard Drive icon
@@ -1162,7 +1162,7 @@ class EvaIcons {
 
   /// Hard Drive Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=hard-drive-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=hard-drive
   static const IconData hardDriveOutline = EvaIconData(0xeaf1);
 
   /// Hash icon
@@ -1172,7 +1172,7 @@ class EvaIcons {
 
   /// Hash Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=hash-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=hash
   static const IconData hashOutline = EvaIconData(0xeaf3);
 
   /// Headphones icon
@@ -1182,7 +1182,7 @@ class EvaIcons {
 
   /// Headphones Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=headphones-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=headphones
   static const IconData headphonesOutline = EvaIconData(0xeaf5);
 
   /// Heart icon
@@ -1192,7 +1192,7 @@ class EvaIcons {
 
   /// Heart Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=heart-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=heart
   static const IconData heartOutline = EvaIconData(0xeaf7);
 
   /// Home icon
@@ -1202,7 +1202,7 @@ class EvaIcons {
 
   /// Home Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=home-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=home
   static const IconData homeOutline = EvaIconData(0xeaf9);
 
   /// Image icon
@@ -1210,14 +1210,14 @@ class EvaIcons {
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=image
   static const IconData image = EvaIconData(0xeafa);
 
-  /// Image 2 icon
+  /// Image2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=image-2
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=image2
   static const IconData image2 = EvaIconData(0xeafb);
 
   /// Image Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=image-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=image
   static const IconData imageOutline = EvaIconData(0xeafc);
 
   /// Inbox icon
@@ -1227,7 +1227,7 @@ class EvaIcons {
 
   /// Inbox Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=inbox-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=inbox
   static const IconData inboxOutline = EvaIconData(0xeafe);
 
   /// Info icon
@@ -1237,7 +1237,7 @@ class EvaIcons {
 
   /// Info Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=info-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=info
   static const IconData infoOutline = EvaIconData(0xeb00);
 
   /// Keypad icon
@@ -1247,7 +1247,7 @@ class EvaIcons {
 
   /// Keypad Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=keypad-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=keypad
   static const IconData keypadOutline = EvaIconData(0xeb02);
 
   /// Layers icon
@@ -1257,7 +1257,7 @@ class EvaIcons {
 
   /// Layers Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=layers-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=layers
   static const IconData layersOutline = EvaIconData(0xeb04);
 
   /// Layout icon
@@ -1267,23 +1267,23 @@ class EvaIcons {
 
   /// Layout Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=layout-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=layout
   static const IconData layoutOutline = EvaIconData(0xeb06);
+
+  /// Link2 icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=link2
+  static const IconData link2 = EvaIconData(0xeb08);
+
+  /// Link2 Outline icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=link2
+  static const IconData link2Outline = EvaIconData(0xeb09);
 
   /// Link icon
   ///
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=link
   static const IconData link = EvaIconData(0xeb0a);
-
-  /// Link 2 icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=link-2
-  static const IconData link2 = EvaIconData(0xeb08);
-
-  /// Link 2 Outline icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=link-2-outline
-  static const IconData link2Outline = EvaIconData(0xeb09);
 
   /// Linkedin icon
   ///
@@ -1292,7 +1292,7 @@ class EvaIcons {
 
   /// Linkedin Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=linkedin-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=linkedin
   static const IconData linkedinOutline = EvaIconData(0xeb0c);
 
   /// List icon
@@ -1302,12 +1302,12 @@ class EvaIcons {
 
   /// List Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=list-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=list
   static const IconData listOutline = EvaIconData(0xeb0e);
 
   /// Loader Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=loader-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=loader
   static const IconData loaderOutline = EvaIconData(0xeb0f);
 
   /// Lock icon
@@ -1317,7 +1317,7 @@ class EvaIcons {
 
   /// Lock Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=lock-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=lock
   static const IconData lockOutline = EvaIconData(0xeb11);
 
   /// Log In icon
@@ -1327,7 +1327,7 @@ class EvaIcons {
 
   /// Log In Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=log-in-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=log-in
   static const IconData logInOutline = EvaIconData(0xeb13);
 
   /// Log Out icon
@@ -1337,7 +1337,7 @@ class EvaIcons {
 
   /// Log Out Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=log-out-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=log-out
   static const IconData logOutOutline = EvaIconData(0xeb15);
 
   /// Map icon
@@ -1347,7 +1347,7 @@ class EvaIcons {
 
   /// Map Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=map-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=map
   static const IconData mapOutline = EvaIconData(0xeb17);
 
   /// Maximize icon
@@ -1357,22 +1357,17 @@ class EvaIcons {
 
   /// Maximize Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=maximize-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=maximize
   static const IconData maximizeOutline = EvaIconData(0xeb19);
 
-  /// Menu icon
+  /// Menu2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=menu
-  static const IconData menu = EvaIconData(0xeb1f);
-
-  /// Menu 2 icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=menu-2
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=menu2
   static const IconData menu2 = EvaIconData(0xeb1b);
 
-  /// Menu 2 Outline icon
+  /// Menu2 Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=menu-2-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=menu2
   static const IconData menu2Outline = EvaIconData(0xeb1c);
 
   /// Menu Arrow icon
@@ -1382,8 +1377,13 @@ class EvaIcons {
 
   /// Menu Arrow Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=menu-arrow-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=menu-arrow
   static const IconData menuArrowOutline = EvaIconData(0xeb1e);
+
+  /// Menu icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=menu
+  static const IconData menu = EvaIconData(0xeb1f);
 
   /// Message Circle icon
   ///
@@ -1392,7 +1392,7 @@ class EvaIcons {
 
   /// Message Circle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=message-circle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=message-circle
   static const IconData messageCircleOutline = EvaIconData(0xeb21);
 
   /// Message Square icon
@@ -1402,7 +1402,7 @@ class EvaIcons {
 
   /// Message Square Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=message-square-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=message-square
   static const IconData messageSquareOutline = EvaIconData(0xeb23);
 
   /// Mic icon
@@ -1417,12 +1417,12 @@ class EvaIcons {
 
   /// Mic Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=mic-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=mic-off
   static const IconData micOffOutline = EvaIconData(0xeb26);
 
   /// Mic Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=mic-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=mic
   static const IconData micOutline = EvaIconData(0xeb27);
 
   /// Minimize icon
@@ -1432,13 +1432,8 @@ class EvaIcons {
 
   /// Minimize Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=minimize-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=minimize
   static const IconData minimizeOutline = EvaIconData(0xeb29);
-
-  /// Minus icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=minus
-  static const IconData minus = EvaIconData(0xeb2d);
 
   /// Minus Circle icon
   ///
@@ -1447,8 +1442,13 @@ class EvaIcons {
 
   /// Minus Circle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=minus-circle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=minus-circle
   static const IconData minusCircleOutline = EvaIconData(0xeb2c);
+
+  /// Minus icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=minus
+  static const IconData minus = EvaIconData(0xeb2d);
 
   /// Minus Square icon
   ///
@@ -1457,7 +1457,7 @@ class EvaIcons {
 
   /// Minus Square Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=minus-square-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=minus-square
   static const IconData minusSquareOutline = EvaIconData(0xeb2f);
 
   /// Monitor icon
@@ -1467,7 +1467,7 @@ class EvaIcons {
 
   /// Monitor Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=monitor-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=monitor
   static const IconData monitorOutline = EvaIconData(0xeb31);
 
   /// Moon icon
@@ -1477,7 +1477,7 @@ class EvaIcons {
 
   /// Moon Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=moon-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=moon
   static const IconData moonOutline = EvaIconData(0xeb33);
 
   /// More Horizontal icon
@@ -1487,7 +1487,7 @@ class EvaIcons {
 
   /// More Horizontal Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=more-horizontal-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=more-horizontal
   static const IconData moreHorizontalOutline = EvaIconData(0xeb35);
 
   /// More Vertical icon
@@ -1497,7 +1497,7 @@ class EvaIcons {
 
   /// More Vertical Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=more-vertical-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=more-vertical
   static const IconData moreVerticalOutline = EvaIconData(0xeb37);
 
   /// Move icon
@@ -1507,7 +1507,7 @@ class EvaIcons {
 
   /// Move Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=move-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=move
   static const IconData moveOutline = EvaIconData(0xeb39);
 
   /// Music icon
@@ -1517,7 +1517,7 @@ class EvaIcons {
 
   /// Music Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=music-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=music
   static const IconData musicOutline = EvaIconData(0xeb3b);
 
   /// Navigation icon
@@ -1525,19 +1525,19 @@ class EvaIcons {
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=navigation
   static const IconData navigation = EvaIconData(0xeb3c);
 
-  /// Navigation 2 icon
+  /// Navigation2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=navigation-2
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=navigation2
   static const IconData navigation2 = EvaIconData(0xeb3d);
 
-  /// Navigation 2 Outline icon
+  /// Navigation2 Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=navigation-2-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=navigation2
   static const IconData navigation2Outline = EvaIconData(0xeb3e);
 
   /// Navigation Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=navigation-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=navigation
   static const IconData navigationOutline = EvaIconData(0xeb3f);
 
   /// Npm icon
@@ -1547,7 +1547,7 @@ class EvaIcons {
 
   /// Npm Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=npm-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=npm
   static const IconData npmOutline = EvaIconData(0xeb41);
 
   /// Options icon
@@ -1555,19 +1555,19 @@ class EvaIcons {
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=options
   static const IconData options = EvaIconData(0xeb42);
 
-  /// Options 2 icon
+  /// Options2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=options-2
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=options2
   static const IconData options2 = EvaIconData(0xeb43);
 
-  /// Options 2 Outline icon
+  /// Options2 Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=options-2-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=options2
   static const IconData options2Outline = EvaIconData(0xeb44);
 
   /// Options Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=options-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=options
   static const IconData optionsOutline = EvaIconData(0xeb45);
 
   /// Pantone icon
@@ -1577,7 +1577,7 @@ class EvaIcons {
 
   /// Pantone Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pantone-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pantone
   static const IconData pantoneOutline = EvaIconData(0xeb47);
 
   /// Paper Plane icon
@@ -1587,7 +1587,7 @@ class EvaIcons {
 
   /// Paper Plane Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=paper-plane-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=paper-plane
   static const IconData paperPlaneOutline = EvaIconData(0xeb49);
 
   /// Pause Circle icon
@@ -1597,7 +1597,7 @@ class EvaIcons {
 
   /// Pause Circle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pause-circle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pause-circle
   static const IconData pauseCircleOutline = EvaIconData(0xeb4b);
 
   /// People icon
@@ -1607,7 +1607,7 @@ class EvaIcons {
 
   /// People Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=people-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=people
   static const IconData peopleOutline = EvaIconData(0xeb4d);
 
   /// Percent icon
@@ -1617,7 +1617,7 @@ class EvaIcons {
 
   /// Percent Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=percent-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=percent
   static const IconData percentOutline = EvaIconData(0xeb4f);
 
   /// Person icon
@@ -1632,7 +1632,7 @@ class EvaIcons {
 
   /// Person Add Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person-add-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person-add
   static const IconData personAddOutline = EvaIconData(0xeb52);
 
   /// Person Delete icon
@@ -1642,7 +1642,7 @@ class EvaIcons {
 
   /// Person Delete Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person-delete-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person-delete
   static const IconData personDeleteOutline = EvaIconData(0xeb54);
 
   /// Person Done icon
@@ -1652,12 +1652,12 @@ class EvaIcons {
 
   /// Person Done Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person-done-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person-done
   static const IconData personDoneOutline = EvaIconData(0xeb56);
 
   /// Person Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person
   static const IconData personOutline = EvaIconData(0xeb57);
 
   /// Person Remove icon
@@ -1667,7 +1667,7 @@ class EvaIcons {
 
   /// Person Remove Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person-remove-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=person-remove
   static const IconData personRemoveOutline = EvaIconData(0xeb59);
 
   /// Phone icon
@@ -1682,7 +1682,7 @@ class EvaIcons {
 
   /// Phone Call Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=phone-call-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=phone-call
   static const IconData phoneCallOutline = EvaIconData(0xeb5c);
 
   /// Phone Missed icon
@@ -1692,7 +1692,7 @@ class EvaIcons {
 
   /// Phone Missed Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=phone-missed-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=phone-missed
   static const IconData phoneMissedOutline = EvaIconData(0xeb5e);
 
   /// Phone Off icon
@@ -1702,12 +1702,12 @@ class EvaIcons {
 
   /// Phone Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=phone-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=phone-off
   static const IconData phoneOffOutline = EvaIconData(0xeb60);
 
   /// Phone Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=phone-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=phone
   static const IconData phoneOutline = EvaIconData(0xeb61);
 
   /// Pie Chart icon
@@ -1715,14 +1715,14 @@ class EvaIcons {
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=pie-chart
   static const IconData pieChart = EvaIconData(0xeb62);
 
-  /// Pie Chart 2 icon
+  /// Pie Chart2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=pie-chart-2
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=pie-chart2
   static const IconData pieChart2 = EvaIconData(0xeb63);
 
   /// Pie Chart Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pie-chart-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pie-chart
   static const IconData pieChartOutline = EvaIconData(0xeb64);
 
   /// Pin icon
@@ -1732,7 +1732,7 @@ class EvaIcons {
 
   /// Pin Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pin-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pin
   static const IconData pinOutline = EvaIconData(0xeb66);
 
   /// Play Circle icon
@@ -1742,13 +1742,8 @@ class EvaIcons {
 
   /// Play Circle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=play-circle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=play-circle
   static const IconData playCircleOutline = EvaIconData(0xeb68);
-
-  /// Plus icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=plus
-  static const IconData plus = EvaIconData(0xeb6c);
 
   /// Plus Circle icon
   ///
@@ -1757,8 +1752,13 @@ class EvaIcons {
 
   /// Plus Circle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=plus-circle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=plus-circle
   static const IconData plusCircleOutline = EvaIconData(0xeb6b);
+
+  /// Plus icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=plus
+  static const IconData plus = EvaIconData(0xeb6c);
 
   /// Plus Square icon
   ///
@@ -1767,7 +1767,7 @@ class EvaIcons {
 
   /// Plus Square Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=plus-square-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=plus-square
   static const IconData plusSquareOutline = EvaIconData(0xeb6e);
 
   /// Power icon
@@ -1777,7 +1777,7 @@ class EvaIcons {
 
   /// Power Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=power-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=power
   static const IconData powerOutline = EvaIconData(0xeb70);
 
   /// Pricetags icon
@@ -1787,7 +1787,7 @@ class EvaIcons {
 
   /// Pricetags Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pricetags-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=pricetags
   static const IconData pricetagsOutline = EvaIconData(0xeb72);
 
   /// Printer icon
@@ -1797,13 +1797,8 @@ class EvaIcons {
 
   /// Printer Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=printer-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=printer
   static const IconData printerOutline = EvaIconData(0xeb74);
-
-  /// Question Mark icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=question-mark
-  static const IconData questionMark = EvaIconData(0xeb78);
 
   /// Question Mark Circle icon
   ///
@@ -1812,8 +1807,13 @@ class EvaIcons {
 
   /// Question Mark Circle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=question-mark-circle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=question-mark-circle
   static const IconData questionMarkCircleOutline = EvaIconData(0xeb77);
+
+  /// Question Mark icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=question-mark
+  static const IconData questionMark = EvaIconData(0xeb78);
 
   /// Radio icon
   ///
@@ -1827,7 +1827,7 @@ class EvaIcons {
 
   /// Radio Button Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=radio-button-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=radio-button-off
   static const IconData radioButtonOffOutline = EvaIconData(0xeb7b);
 
   /// Radio Button On icon
@@ -1837,12 +1837,12 @@ class EvaIcons {
 
   /// Radio Button On Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=radio-button-on-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=radio-button-on
   static const IconData radioButtonOnOutline = EvaIconData(0xeb7d);
 
   /// Radio Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=radio-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=radio
   static const IconData radioOutline = EvaIconData(0xeb7e);
 
   /// Recording icon
@@ -1852,7 +1852,7 @@ class EvaIcons {
 
   /// Recording Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=recording-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=recording
   static const IconData recordingOutline = EvaIconData(0xeb80);
 
   /// Refresh icon
@@ -1862,7 +1862,7 @@ class EvaIcons {
 
   /// Refresh Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=refresh-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=refresh
   static const IconData refreshOutline = EvaIconData(0xeb82);
 
   /// Repeat icon
@@ -1872,7 +1872,7 @@ class EvaIcons {
 
   /// Repeat Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=repeat-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=repeat
   static const IconData repeatOutline = EvaIconData(0xeb84);
 
   /// Rewind Left icon
@@ -1882,7 +1882,7 @@ class EvaIcons {
 
   /// Rewind Left Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=rewind-left-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=rewind-left
   static const IconData rewindLeftOutline = EvaIconData(0xeb86);
 
   /// Rewind Right icon
@@ -1892,7 +1892,7 @@ class EvaIcons {
 
   /// Rewind Right Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=rewind-right-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=rewind-right
   static const IconData rewindRightOutline = EvaIconData(0xeb88);
 
   /// Save icon
@@ -1902,7 +1902,7 @@ class EvaIcons {
 
   /// Save Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=save-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=save
   static const IconData saveOutline = EvaIconData(0xeb8a);
 
   /// Scissors icon
@@ -1912,7 +1912,7 @@ class EvaIcons {
 
   /// Scissors Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=scissors-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=scissors
   static const IconData scissorsOutline = EvaIconData(0xeb8c);
 
   /// Search icon
@@ -1922,7 +1922,7 @@ class EvaIcons {
 
   /// Search Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=search-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=search
   static const IconData searchOutline = EvaIconData(0xeb8e);
 
   /// Settings icon
@@ -1930,19 +1930,19 @@ class EvaIcons {
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=settings
   static const IconData settings = EvaIconData(0xeb8f);
 
-  /// Settings 2 icon
+  /// Settings2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=settings-2
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=settings2
   static const IconData settings2 = EvaIconData(0xeb90);
 
-  /// Settings 2 Outline icon
+  /// Settings2 Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=settings-2-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=settings2
   static const IconData settings2Outline = EvaIconData(0xeb91);
 
   /// Settings Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=settings-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=settings
   static const IconData settingsOutline = EvaIconData(0xeb92);
 
   /// Shake icon
@@ -1952,7 +1952,7 @@ class EvaIcons {
 
   /// Shake Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shake-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shake
   static const IconData shakeOutline = EvaIconData(0xeb94);
 
   /// Share icon
@@ -1962,7 +1962,7 @@ class EvaIcons {
 
   /// Share Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=share-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=share
   static const IconData shareOutline = EvaIconData(0xeb96);
 
   /// Shield icon
@@ -1977,12 +1977,12 @@ class EvaIcons {
 
   /// Shield Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shield-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shield-off
   static const IconData shieldOffOutline = EvaIconData(0xeb99);
 
   /// Shield Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shield-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shield
   static const IconData shieldOutline = EvaIconData(0xeb9a);
 
   /// Shopping Bag icon
@@ -1992,7 +1992,7 @@ class EvaIcons {
 
   /// Shopping Bag Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shopping-bag-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shopping-bag
   static const IconData shoppingBagOutline = EvaIconData(0xeb9c);
 
   /// Shopping Cart icon
@@ -2002,23 +2002,23 @@ class EvaIcons {
 
   /// Shopping Cart Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shopping-cart-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shopping-cart
   static const IconData shoppingCartOutline = EvaIconData(0xeb9e);
+
+  /// Shuffle2 icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=shuffle2
+  static const IconData shuffle2 = EvaIconData(0xeba0);
+
+  /// Shuffle2 Outline icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shuffle2
+  static const IconData shuffle2Outline = EvaIconData(0xeba1);
 
   /// Shuffle icon
   ///
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=shuffle
   static const IconData shuffle = EvaIconData(0xeba2);
-
-  /// Shuffle 2 icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=shuffle-2
-  static const IconData shuffle2 = EvaIconData(0xeba0);
-
-  /// Shuffle 2 Outline icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=shuffle-2-outline
-  static const IconData shuffle2Outline = EvaIconData(0xeba1);
 
   /// Skip Back icon
   ///
@@ -2027,7 +2027,7 @@ class EvaIcons {
 
   /// Skip Back Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=skip-back-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=skip-back
   static const IconData skipBackOutline = EvaIconData(0xeba4);
 
   /// Skip Forward icon
@@ -2037,7 +2037,7 @@ class EvaIcons {
 
   /// Skip Forward Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=skip-forward-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=skip-forward
   static const IconData skipForwardOutline = EvaIconData(0xeba6);
 
   /// Slash icon
@@ -2047,7 +2047,7 @@ class EvaIcons {
 
   /// Slash Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=slash-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=slash
   static const IconData slashOutline = EvaIconData(0xeba8);
 
   /// Smartphone icon
@@ -2057,7 +2057,7 @@ class EvaIcons {
 
   /// Smartphone Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=smartphone-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=smartphone
   static const IconData smartphoneOutline = EvaIconData(0xebaa);
 
   /// Smiling Face icon
@@ -2067,7 +2067,7 @@ class EvaIcons {
 
   /// Smiling Face Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=smiling-face-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=smiling-face
   static const IconData smilingFaceOutline = EvaIconData(0xebac);
 
   /// Speaker icon
@@ -2077,7 +2077,7 @@ class EvaIcons {
 
   /// Speaker Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=speaker-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=speaker
   static const IconData speakerOutline = EvaIconData(0xebae);
 
   /// Square icon
@@ -2087,7 +2087,7 @@ class EvaIcons {
 
   /// Square Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=square-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=square
   static const IconData squareOutline = EvaIconData(0xebb0);
 
   /// Star icon
@@ -2097,7 +2097,7 @@ class EvaIcons {
 
   /// Star Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=star-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=star
   static const IconData starOutline = EvaIconData(0xebb2);
 
   /// Stop Circle icon
@@ -2107,7 +2107,7 @@ class EvaIcons {
 
   /// Stop Circle Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=stop-circle-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=stop-circle
   static const IconData stopCircleOutline = EvaIconData(0xebb4);
 
   /// Sun icon
@@ -2117,7 +2117,7 @@ class EvaIcons {
 
   /// Sun Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=sun-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=sun
   static const IconData sunOutline = EvaIconData(0xebb6);
 
   /// Swap icon
@@ -2127,7 +2127,7 @@ class EvaIcons {
 
   /// Swap Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=swap-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=swap
   static const IconData swapOutline = EvaIconData(0xebb8);
 
   /// Sync icon
@@ -2137,7 +2137,7 @@ class EvaIcons {
 
   /// Sync Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=sync-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=sync
   static const IconData syncOutline = EvaIconData(0xebba);
 
   /// Text icon
@@ -2147,7 +2147,7 @@ class EvaIcons {
 
   /// Text Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=text-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=text
   static const IconData textOutline = EvaIconData(0xebbc);
 
   /// Thermometer icon
@@ -2162,12 +2162,12 @@ class EvaIcons {
 
   /// Thermometer Minus Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=thermometer-minus-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=thermometer-minus
   static const IconData thermometerMinusOutline = EvaIconData(0xebbf);
 
   /// Thermometer Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=thermometer-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=thermometer
   static const IconData thermometerOutline = EvaIconData(0xebc0);
 
   /// Thermometer Plus icon
@@ -2177,7 +2177,7 @@ class EvaIcons {
 
   /// Thermometer Plus Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=thermometer-plus-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=thermometer-plus
   static const IconData thermometerPlusOutline = EvaIconData(0xebc2);
 
   /// Toggle Left icon
@@ -2187,7 +2187,7 @@ class EvaIcons {
 
   /// Toggle Left Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=toggle-left-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=toggle-left
   static const IconData toggleLeftOutline = EvaIconData(0xebc4);
 
   /// Toggle Right icon
@@ -2197,7 +2197,7 @@ class EvaIcons {
 
   /// Toggle Right Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=toggle-right-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=toggle-right
   static const IconData toggleRightOutline = EvaIconData(0xebc6);
 
   /// Trash icon
@@ -2205,19 +2205,19 @@ class EvaIcons {
   /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=trash
   static const IconData trash = EvaIconData(0xebc7);
 
-  /// Trash 2 icon
+  /// Trash2 icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=trash-2
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=trash2
   static const IconData trash2 = EvaIconData(0xebc8);
 
-  /// Trash 2 Outline icon
+  /// Trash2 Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=trash-2-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=trash2
   static const IconData trash2Outline = EvaIconData(0xebc9);
 
   /// Trash Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=trash-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=trash
   static const IconData trashOutline = EvaIconData(0xebca);
 
   /// Trending Down icon
@@ -2227,7 +2227,7 @@ class EvaIcons {
 
   /// Trending Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=trending-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=trending-down
   static const IconData trendingDownOutline = EvaIconData(0xebcc);
 
   /// Trending Up icon
@@ -2237,7 +2237,7 @@ class EvaIcons {
 
   /// Trending Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=trending-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=trending-up
   static const IconData trendingUpOutline = EvaIconData(0xebce);
 
   /// Tv icon
@@ -2247,7 +2247,7 @@ class EvaIcons {
 
   /// Tv Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=tv-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=tv
   static const IconData tvOutline = EvaIconData(0xebd0);
 
   /// Twitter icon
@@ -2257,7 +2257,7 @@ class EvaIcons {
 
   /// Twitter Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=twitter-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=twitter
   static const IconData twitterOutline = EvaIconData(0xebd2);
 
   /// Umbrella icon
@@ -2267,7 +2267,7 @@ class EvaIcons {
 
   /// Umbrella Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=umbrella-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=umbrella
   static const IconData umbrellaOutline = EvaIconData(0xebd4);
 
   /// Undo icon
@@ -2277,7 +2277,7 @@ class EvaIcons {
 
   /// Undo Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=undo-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=undo
   static const IconData undoOutline = EvaIconData(0xebd6);
 
   /// Unlock icon
@@ -2287,7 +2287,7 @@ class EvaIcons {
 
   /// Unlock Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=unlock-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=unlock
   static const IconData unlockOutline = EvaIconData(0xebd8);
 
   /// Upload icon
@@ -2297,7 +2297,7 @@ class EvaIcons {
 
   /// Upload Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=upload-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=upload
   static const IconData uploadOutline = EvaIconData(0xebda);
 
   /// Video icon
@@ -2312,12 +2312,12 @@ class EvaIcons {
 
   /// Video Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=video-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=video-off
   static const IconData videoOffOutline = EvaIconData(0xebdd);
 
   /// Video Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=video-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=video
   static const IconData videoOutline = EvaIconData(0xebde);
 
   /// Volume Down icon
@@ -2327,7 +2327,7 @@ class EvaIcons {
 
   /// Volume Down Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=volume-down-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=volume-down
   static const IconData volumeDownOutline = EvaIconData(0xebe0);
 
   /// Volume Mute icon
@@ -2337,7 +2337,7 @@ class EvaIcons {
 
   /// Volume Mute Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=volume-mute-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=volume-mute
   static const IconData volumeMuteOutline = EvaIconData(0xebe2);
 
   /// Volume Off icon
@@ -2347,7 +2347,7 @@ class EvaIcons {
 
   /// Volume Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=volume-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=volume-off
   static const IconData volumeOffOutline = EvaIconData(0xebe4);
 
   /// Volume Up icon
@@ -2357,13 +2357,8 @@ class EvaIcons {
 
   /// Volume Up Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=volume-up-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=volume-up
   static const IconData volumeUpOutline = EvaIconData(0xebe6);
-
-  /// Wifi icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=wifi
-  static const IconData wifi = EvaIconData(0xebea);
 
   /// Wifi Off icon
   ///
@@ -2372,6 +2367,11 @@ class EvaIcons {
 
   /// Wifi Off Outline icon
   ///
-  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=wifi-off-outline
+  /// https://akveo.github.io/eva-icons/#/?type=outline&searchKey=wifi-off
   static const IconData wifiOffOutline = EvaIconData(0xebe9);
+
+  /// Wifi icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type=fill&searchKey=wifi
+  static const IconData wifi = EvaIconData(0xebea);
 }
