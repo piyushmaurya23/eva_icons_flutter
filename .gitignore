@@ -15,3 +15,6 @@ ios/.generated/
 ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
 android/
+
+# FVM Version Cache
+.fvm/
