@@ -10,6 +10,8 @@ Blog Post: [Beautiful Outlined and Rounded Icons in Flutter with Eva Icons](http
 
 ## Installation
 
+Version 4.0.0 requires Dart 3.0 and Flutter 3.10 or later.
+
 In the dependencies: section of your `pubspec.yaml`, add the following line:
 
 ```yaml

@@ -75,7 +75,7 @@ fi
 # Run analysis if available
 if command -v flutter &> /dev/null; then
     echo -e "${YELLOW}Running Flutter analysis...${NC}"
-    flutter analyze
+    flutter analyze --no-pub
     if [ $? -eq 0 ]; then
         echo -e "${GREEN}✓ Analysis passed${NC}"
     else

@@ -5,5 +5,4 @@
 /// Blog Post: [Beautiful Outlined and Rounded Icons in Flutter with Eva Icons](https://medium.com/@piyushmaurya23/beautiful-outlined-and-rounded-icons-in-flutter-with-eva-icons-e9bf86a7c4e9)
 library eva_icons_flutter;
 
-export 'src/icon_data.dart';
 export 'src/eva_icons_flutter.dart';
