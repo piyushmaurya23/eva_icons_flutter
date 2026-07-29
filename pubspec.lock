@@ -115,22 +115,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
-  petitparser:
-    dependency: transitive
-    description:
-      name: petitparser
-      sha256: "1a914995d4ef10c94ff183528c120d35ed43b5eaa8713fc6766a9be4570782e2"
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.4.0"
-  recase:
-    dependency: "direct dev"
-    description:
-      name: recase
-      sha256: "7aec9b9f498cba65ed969eda51ea3d86a77bbd633d876b57d9db7d9f94fc6ca5"
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -200,14 +184,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "15.0.0"
-  xml:
-    dependency: "direct dev"
-    description:
-      name: xml
-      sha256: baa23bcba1ba4ce4b22c0c7a1d9c861e7015cb5169512676da0b85138e72840c
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.3.1"
 sdks:
   dart: ">=3.10.0-0 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"

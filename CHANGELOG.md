@@ -1,3 +1,10 @@
+## 4.0.0
+
+- Require Dart 3.0 and Flutter 3.10 or later.
+- Support Flutter 3.44 by defining icons with direct `IconData` constants.
+- **Breaking:** Remove the public `EvaIconData` class because Flutter's
+  `IconData` is now final. Use `IconData` directly for custom icon definitions.
+
 ## 3.1.0
 
 * Add ios, web & windows platform for launching example app
