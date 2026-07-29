@@ -3,29 +3,67 @@
 
 import argparse
 import json
-import os
+import logging
 import re
 import subprocess
+from dataclasses import dataclass
+from pathlib import Path
+from typing import Dict, List
 
 from fontTools.ttLib import TTFont
 
+
+EVA_ICONS_UNICODE_START = 0xEA00
+EVA_ICONS_UNICODE_END = 0xEBFF
+FONT_PACKAGE = 'eva_icons_flutter'
+FONT_FAMILY = 'EvaIcons'
 
 ICON_PATTERN = re.compile(
     r'static const IconData\s+(\w+)\s*=\s*'
     r'(?:EvaIconData|IconData)\(\s*0x([a-fA-F0-9]+)'
 )
 
+logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
+logger = logging.getLogger(__name__)
 
-def extract_git_template():
+
+@dataclass(frozen=True)
+class IconMapping:
+    """A public Dart icon and its corresponding font glyph."""
+
+    dart_name: str
+    glyph_name: str
+    code_point: int
+    icon_type: str
+
+    @property
+    def search_key(self) -> str:
+        """Convert the Dart name to the Eva Icons documentation key."""
+        name = (
+            self.dart_name[:-7]
+            if self.dart_name.endswith('Outline')
+            else self.dart_name
+        )
+        return re.sub(r'(?<!^)(?=[A-Z])', '-', name).lower()
+
+    @property
+    def display_name(self) -> str:
+        """Return the human-readable icon name."""
+        suffix = ' Outline' if self.icon_type == 'outline' else ''
+        return self.search_key.replace('-', ' ').title() + suffix
+
+
+def extract_git_template() -> Dict[int, str]:
     """Extract the public icon names and code points from git HEAD."""
     result = subprocess.run(
         ['git', 'show', 'HEAD:lib/src/eva_icons_flutter.dart'],
         capture_output=True,
         text=True,
+        check=False,
     )
 
     if result.returncode != 0:
-        raise RuntimeError(f"Error reading git file: {result.stderr.strip()}")
+        raise RuntimeError(f'Error reading git file: {result.stderr.strip()}')
 
     matches = ICON_PATTERN.findall(result.stdout)
     if not matches:
@@ -39,50 +77,69 @@ def extract_git_template():
     }
 
 
-def extract_font_mappings(font_path):
+def extract_font_mappings(font_path: Path) -> Dict[int, str]:
     """Extract the Eva Icons Unicode mappings from the font."""
     font = TTFont(font_path)
     mappings = {}
 
     for cmap in font['cmap'].tables:
         if cmap.isUnicode():
-            for char_code, glyph_name in cmap.cmap.items():
-                if 0xEA00 <= char_code <= 0xEBFF:
-                    mappings[char_code] = glyph_name
+            for code_point, glyph_name in cmap.cmap.items():
+                if EVA_ICONS_UNICODE_START <= code_point <= EVA_ICONS_UNICODE_END:
+                    mappings[code_point] = glyph_name
 
     return mappings
 
 
-def icon_details(dart_name):
-    """Return the display name, icon type, and documentation search key."""
-    is_outline = dart_name.endswith('Outline')
-    base_name = dart_name[:-7] if is_outline else dart_name
-    search_key = re.sub(r'(?<!^)(?=[A-Z])', '-', base_name).lower()
-    display_name = search_key.replace('-', ' ').title()
-
-    if is_outline:
-        display_name += ' Outline'
-
-    return display_name, 'outline' if is_outline else 'fill', search_key
+def determine_icon_type(dart_name: str, glyph_name: str) -> str:
+    """Determine whether an icon is filled or outlined."""
+    if dart_name.endswith('Outline') or glyph_name.endswith('-outline'):
+        return 'outline'
+    return 'fill'
 
 
-def generate_dart_content(git_template):
-    """Generate the Dart source for the public icon constants."""
-    constants = []
-
-    for char_code, dart_name in sorted(git_template.items()):
-        display_name, icon_type, search_key = icon_details(dart_name)
-        constants.append(
-            f'''  /// {display_name} icon
-  ///
-  /// https://akveo.github.io/eva-icons/#/?type={icon_type}&searchKey={search_key}
-  static const IconData {dart_name} = IconData(
-    0x{char_code:04x},
-    fontFamily: 'EvaIcons',
-    fontPackage: 'eva_icons_flutter',
-  );'''
+def build_icon_mappings(
+    git_template: Dict[int, str],
+    font_mappings: Dict[int, str],
+) -> List[IconMapping]:
+    """Combine public Dart names with font glyph metadata."""
+    missing = sorted(set(git_template) - set(font_mappings))
+    if missing:
+        missing_icons = ', '.join(
+            f'U+{code_point:04X} ({git_template[code_point]})'
+            for code_point in missing[:5]
         )
+        raise RuntimeError(f'Icons missing from font: {missing_icons}')
 
+    return [
+        IconMapping(
+            dart_name=dart_name,
+            glyph_name=font_mappings[code_point],
+            code_point=code_point,
+            icon_type=determine_icon_type(
+                dart_name,
+                font_mappings[code_point],
+            ),
+        )
+        for code_point, dart_name in sorted(git_template.items())
+    ]
+
+
+def generate_icon_constant(mapping: IconMapping) -> str:
+    """Generate a single Dart IconData constant."""
+    return f'''  /// {mapping.display_name} icon
+  ///
+  /// https://akveo.github.io/eva-icons/#/?type={mapping.icon_type}&searchKey={mapping.search_key}
+  static const IconData {mapping.dart_name} = IconData(
+    0x{mapping.code_point:04x},
+    fontFamily: '{FONT_FAMILY}',
+    fontPackage: '{FONT_PACKAGE}',
+  );'''
+
+
+def generate_dart_content(mappings: List[IconMapping]) -> str:
+    """Generate the Dart source for the public icon constants."""
+    constants = '\n\n'.join(generate_icon_constant(item) for item in mappings)
     header = '''import 'package:flutter/widgets.dart';
 
 /// Icons based on Eva Icons
@@ -90,36 +147,33 @@ def generate_dart_content(git_template):
 /// https://akveo.github.io/eva-icons/#/
 class EvaIcons {'''
 
-    return header + '\n' + '\n\n'.join(constants) + '\n}\n'
+    return f'{header}\n{constants}\n}}\n'
 
 
-def generate_json_metadata(git_template, font_mappings):
+def generate_json_metadata(mappings: List[IconMapping]) -> dict:
     """Generate JSON metadata for the public icon constants."""
     return {
-        'font_family': 'EvaIcons',
-        'font_package': 'eva_icons_flutter',
-        'total_icons': len(git_template),
+        'font_family': FONT_FAMILY,
+        'font_package': FONT_PACKAGE,
+        'total_icons': len(mappings),
         'unicode_range': {
-            'start': f"0x{min(git_template):04x}",
-            'end': f"0x{max(git_template):04x}",
+            'start': f'0x{mappings[0].code_point:04x}',
+            'end': f'0x{mappings[-1].code_point:04x}',
         },
         'mappings': {
-            dart_name: {
-                'glyph_name': font_mappings.get(char_code, 'unknown'),
-                'unicode': f"0x{char_code:04x}",
-                'decimal': char_code,
-                'type': (
-                    'outline'
-                    if font_mappings.get(char_code, '').endswith('-outline')
-                    else 'fill'
-                ),
+            mapping.dart_name: {
+                'glyph_name': mapping.glyph_name,
+                'unicode': f'0x{mapping.code_point:04x}',
+                'decimal': mapping.code_point,
+                'type': mapping.icon_type,
             }
-            for char_code, dart_name in sorted(git_template.items())
+            for mapping in mappings
         },
     }
 
 
-def main():
+def parse_args() -> argparse.Namespace:
+    """Parse command-line arguments."""
     parser = argparse.ArgumentParser(
         description='Generate Eva Icons Flutter code from a TTF font',
     )
@@ -133,43 +187,57 @@ def main():
         default='../lib/src',
         help='Directory for generated Dart files',
     )
-    args = parser.parse_args()
+    parser.add_argument(
+        '--verbose',
+        '-v',
+        action='store_true',
+        help='Enable verbose output',
+    )
+    return parser.parse_args()
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    font_path = os.path.join(script_dir, args.font_path)
-    output_dir = os.path.join(script_dir, args.output_dir)
-    dart_output_path = os.path.join(output_dir, 'eva_icons_flutter.dart')
-    json_output_path = os.path.join(script_dir, 'eva_icons_mappings.json')
 
-    print('Step 1: Extracting git template...')
-    git_template = extract_git_template()
-    print(f'Found {len(git_template)} icons in git template')
+def main() -> int:
+    """Generate the Dart library and JSON metadata."""
+    args = parse_args()
+    if args.verbose:
+        logger.setLevel(logging.DEBUG)
 
-    print('Step 2: Extracting font mappings...')
-    font_mappings = extract_font_mappings(font_path)
-    print(f'Found {len(font_mappings)} mappings in font')
+    script_dir = Path(__file__).parent.resolve()
+    font_path = (script_dir / args.font_path).resolve()
+    output_dir = (script_dir / args.output_dir).resolve()
 
-    missing_in_font = sorted(set(git_template) - set(font_mappings))
-    if missing_in_font:
-        missing_icons = ', '.join(
-            f'U+{code_point:04X} ({git_template[code_point]})'
-            for code_point in missing_in_font[:5]
-        )
-        raise RuntimeError(f'Icons missing from font: {missing_icons}')
+    if not font_path.exists():
+        logger.error('Font file not found: %s', font_path)
+        return 1
 
-    dart_content = generate_dart_content(git_template)
-    json_metadata = generate_json_metadata(git_template, font_mappings)
+    try:
+        git_template = extract_git_template()
+        logger.info('Found %d icons in git template', len(git_template))
 
-    os.makedirs(output_dir, exist_ok=True)
-    with open(dart_output_path, 'w', encoding='utf-8') as dart_file:
-        dart_file.write(dart_content)
-    with open(json_output_path, 'w', encoding='utf-8') as json_file:
-        json.dump(json_metadata, json_file, indent=2, ensure_ascii=False)
-        json_file.write('\n')
+        font_mappings = extract_font_mappings(font_path)
+        logger.info('Found %d mappings in font', len(font_mappings))
 
-    print(f'Generated Dart file: {dart_output_path}')
-    print(f'Generated JSON file: {json_output_path}')
+        mappings = build_icon_mappings(git_template, font_mappings)
+        dart_content = generate_dart_content(mappings)
+        json_metadata = generate_json_metadata(mappings)
+    except (OSError, RuntimeError) as error:
+        logger.error('%s', error)
+        return 1
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    dart_output_path = output_dir / 'eva_icons_flutter.dart'
+    json_output_path = script_dir / 'eva_icons_mappings.json'
+
+    dart_output_path.write_text(dart_content, encoding='utf-8')
+    json_output_path.write_text(
+        json.dumps(json_metadata, indent=2, ensure_ascii=False) + '\n',
+        encoding='utf-8',
+    )
+
+    logger.info('Generated Dart file: %s', dart_output_path)
+    logger.info('Generated JSON file: %s', json_output_path)
+    return 0
 
 
 if __name__ == '__main__':
-    main()
+    raise SystemExit(main())
