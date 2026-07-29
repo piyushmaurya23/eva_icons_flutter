@@ -46,3 +46,4 @@ View the Flutter app in the `example` directory.
 
 - [Piyush Maurya](https://github.com/piyushmaurya23/)
 - [Karan Shah](https://github.com/karan413255)
+- [Boris Kayi](https://github.com/silverhairs)
