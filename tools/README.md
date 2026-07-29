@@ -57,7 +57,7 @@ python generate_icons.py --output-dir /path/to/output
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.9+
 - fonttools Python package (automatically installed)
 - Flutter SDK (optional, for formatting and analysis)
 
@@ -79,8 +79,12 @@ class EvaIcons {
   /// Activity icon
   ///
   /// https://akveo.github.io/eva-icons/#/?searchKey=activity
-  static const IconData activity = EvaIconData(0xea01);
-  
+  static const IconData activity = IconData(
+    0xea01,
+    fontFamily: 'EvaIcons',
+    fontPackage: 'eva_icons_flutter',
+  );
+
   // ... more icons
 }
 ```
@@ -92,7 +96,7 @@ Reference file with detailed mappings:
 {
   "font_family": "EvaIcons",
   "font_package": "eva_icons_flutter", 
-  "total_icons": 490,
+  "total_icons": 474,
   "unicode_range": {
     "start": "0xea01",
     "end": "0xebea"
