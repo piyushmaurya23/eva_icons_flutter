@@ -9,8 +9,6 @@
 
 doc/
 build/
-tool/
-tools/venv/
 ios/.generated/
 ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
